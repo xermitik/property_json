@@ -9,7 +9,7 @@
     "Office",
     "Office Building"
   ],
-  "dateAdded": 1710161210,
+  "dateAdded": 1710175610,
   "propertyInfo": {
     "address": {
       "state": {
@@ -43,7 +43,7 @@
       "longitude": -84.604961
     },
     "numParkingSpaces": 30,
-    "ParkingText": "Spacious front parking lot with two driveway access points",
+    "ParkingText": null,
     "propertyUse": "Office or Flex R & D"
   },
   "buildings": 1,
@@ -126,7 +126,7 @@
   "spaces": [
     {
       "size": 5766,
-      "sizeUnits": "sq ft"
+      "sizeUnits": "SF"
     }
   ]
 }
