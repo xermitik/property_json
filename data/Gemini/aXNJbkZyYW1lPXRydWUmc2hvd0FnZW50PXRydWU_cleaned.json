@@ -19,7 +19,7 @@
       "county": "Hays County",
       "city": "Dripping Springs",
       "zipcode": "78620",
-      "street": null,
+      "street": "US 290 & Sawyer Ranch Road",
       "streetNumber": null,
       "unit": null,
       "cbsaCode": null,
@@ -34,7 +34,7 @@
     "lotSize": 120661,
     "lotSizeUnits": "sq ft",
     "propertySize": 2.77,
-    "propertySizeUnits": "Acres",
+    "propertySizeUnits": "Ac",
     "propertySizeText": null,
     "layoutText": null,
     "construction": null,
@@ -130,10 +130,10 @@
       "isFake": null
     }
   ],
-  "flyers": [],
-  "attachments": [
+  "flyers": [
     "https://s3.amazonaws.com/realnex.production/ListingAttachment/4069001/16267175.pdf"
   ],
+  "attachments": [],
   "imagesSource": "realnex.com",
   "brokerWebsite": "https://realnex.com/listings/4069001/us-290-and-sawyer-ranch-road-lot-1ac",
   "brokerLogo": null,
