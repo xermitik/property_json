@@ -1,0 +1,142 @@
+{
+  "name": "3334 Richmond",
+  "description": "Now Available for Lease, Office, 3334 Richmond located at 3334 Richmond Ave.Up to 6,090 SF contiguous on the first floor. Please contact us for further information. Now Available for Sale, Office, 3334 Richmond located at 3334 Richmond Ave.Midcentury aesthetic. The building has a new, shared conference room (bookable on shared calendar) and renovated landscaping, lobby, restrooms, hallways, artwork, as well as a new first-floor lounge. Walkable dining is nearby, and you are a close drive to the bevy of Greenway Plaza-area lunch options. Free and ample surface parking, much of which is covered by the building’s overhang.Please contact us for further information.",
+  "shortDescription": null,
+  "status": null,
+  "activityStatus": true,
+  "propertyTypes": [
+    "Office"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Texas",
+        "code": "TX"
+      },
+      "county": null,
+      "city": "Houston",
+      "zipcode": "77098",
+      "street": "3334 Richmond Ave",
+      "streetNumber": "3334",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": null,
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": null,
+    "propertySizeUnits": null,
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 29.734403,
+      "longitude": -95.428142
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": {
+    "price": null,
+    "saleCondition": null,
+    "buildingSize": null,
+    "buildingSizeUnits": null,
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": null,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": null
+  },
+  "forLease": {
+    "rentableSquareFeet": null,
+    "rentableSquareFeetUnits": "Sq Ft",
+    "usableSquareFeet": null,
+    "usableSquareFeetUnits": "Sq Ft",
+    "rate": null,
+    "rateAreaUnits": "sq ft",
+    "totalRate": null,
+    "leaseType": null,
+    "leaseTerm": null,
+    "taxesPerSquareFoot": null,
+    "taxesPerAreaUnits": "sq ft",
+    "rateType": null
+  },
+  "contacts": [
+    {
+      "fullName": "Madeline Cleary",
+      "firstName": "Madeline",
+      "lastName": "Cleary",
+      "description": "Associate Healthcare, Life Sciences",
+      "company": null,
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733676700/broker_profile_management_PROD/p3ajanwrowgtfgnne3nr.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "+1 713 888 4007"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "https://res.cloudinary.com/marketsphere/image/upload/f_avif,dpr_auto,w_3840,q_auto/t_main_us/sdjtjvvhdiillsx1fusz",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://res.cloudinary.com/jll-global-sandbox/image/upload/f_avif,dpr_auto,w_3840,q_auto/t_main_us/v1709843123/MyListing/public/prod/meesnjbfiqdkrfboxhnw.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://res.cloudinary.com/jll-global-sandbox/image/upload/f_avif,dpr_auto,w_3840,q_auto/t_main_us/v1709843147/MyListing/public/prod/qxpnv5ervr3i0oviglhz.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://res.cloudinary.com/jll-global-sandbox/image/upload/f_avif,dpr_auto,w_3840,q_auto/t_main_us/v1709843153/MyListing/public/prod/rxwnm21mhjuglb77iseh.jpg",
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [],
+  "imagesSource": "property.jll.com",
+  "brokerWebsite": "https://property.jll.com/listings/3334-richmond-ave-houston",
+  "brokerLogo": "https://res.cloudinary.com/jll-global-olm/image/upload/v1637142411/assets/exchange/logo-noreg-highres-180.png",
+  "highlights": [],
+  "spaces": [
+    {
+      "size": 5093,
+      "sizeUnits": "SF"
+    },
+    {
+      "size": 975,
+      "sizeUnits": "SF"
+    },
+    {
+      "size": 629,
+      "sizeUnits": "SF"
+    }
+  ]
+}
