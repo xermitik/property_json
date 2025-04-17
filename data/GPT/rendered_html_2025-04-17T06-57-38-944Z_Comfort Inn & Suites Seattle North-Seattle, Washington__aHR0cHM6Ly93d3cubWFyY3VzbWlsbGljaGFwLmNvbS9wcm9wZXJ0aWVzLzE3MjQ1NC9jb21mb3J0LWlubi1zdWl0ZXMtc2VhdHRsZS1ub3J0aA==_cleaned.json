@@ -23,7 +23,7 @@
       "cbsaCode": null,
       "cbsaName": null
     },
-    "areaDescription": "Located in northwest Seattle along State Highway 99, less than a mile from Interstate 5 and seven miles from Downtown Seattle. Within 10 miles of Woodland Park Zoo, the Space Needle, Seattle Aquarium, Pike Place Market, and Pier 55. Close to major sporting venues including Climate Pledge Arena, Lumen Field, and T-Mobile Park. Nearby demand generators include UW Medical Center, Seattle Children's Hospital, the University of Washington, and the Seattle Convention Center.",
+    "areaDescription": "Ideally Located Along State Highway 99 in Northwest Seattle, a Region with Excellent Demographics. 10 Miles to Downtown Seattle and some of the Market's Major Employers. Minutes to World-Renowned Attractions Including the Space Needle, Seattle Aquarium, and Pike Place Market (~8.5M Combined Visitors Per Year). 7 Miles to the University of Washington (50k+ Enrollment). 7 Miles to Seattle Children's Hospital (451k+ Patient Visits in 2024). Within 8 Miles of the Metro's Major Sporting Venues, Including Climate Pledge Arena, Lumen Field, and T-Mobile Park. 9 Miles to Seattle Convention Center (335 Events Per Year / 360k+ Attendees in 2023).",
     "zoneCode": null,
     "apu": null,
     "apn": null,
@@ -42,9 +42,10 @@
     },
     "numParkingSpaces": null,
     "ParkingText": null,
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://www.marcusmillichap.com/properties/172454/comfort-inn-suites-seattle-north"
   },
-  "buildings": null,
+  "buildings": 1,
   "stories": 4,
   "buildingClass": null,
   "parkingSpaces": null,
@@ -103,40 +104,6 @@
       "website": null,
       "linkedin": null,
       "licenseNumber": "CA: 00927200, NV: BS.0146254, ID: AB56024"
-    },
-    {
-      "fullName": "Joel Deis",
-      "firstName": "Joel",
-      "lastName": "Deis",
-      "description": "First Vice President/Regional Manager",
-      "company": "Marcus & Millichap",
-      "photo": null,
-      "address": null,
-      "officeAddress": null,
-      "phones": [
-        "(206) 826-5700"
-      ],
-      "email": null,
-      "website": null,
-      "linkedin": null,
-      "licenseNumber": "WA: 25469"
-    },
-    {
-      "fullName": "Tyler Waller",
-      "firstName": "Tyler",
-      "lastName": "Waller",
-      "description": "Senior Director, Capital Markets",
-      "company": "Marcus & Millichap",
-      "photo": null,
-      "address": null,
-      "officeAddress": null,
-      "phones": [
-        "(602) 687-6695"
-      ],
-      "email": "tyler.waller@marcusmillichap.com",
-      "website": null,
-      "linkedin": null,
-      "licenseNumber": null
     }
   ],
   "images": [
@@ -157,7 +124,7 @@
   "attachments": [],
   "imagesSource": "mmimageservice.azurewebsites.net",
   "brokerWebsite": "https://www.marcusmillichap.com/properties/172454/comfort-inn-suites-seattle-north",
-  "brokerLogo": "https://www.marcusmillichap.com/Areas/MM/img/MM_logo2018_white.svg",
+  "brokerLogo": "https://www.marcusmillichap.com/-/media/Images/MM/MM_logo2018_white.svg",
   "highlights": [
     "$250k of CapEx in Progress",
     "Ideally Located Along State Highway 99 in Northwest Seattle, a Region with Excellent Demographics",
