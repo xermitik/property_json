@@ -42,7 +42,8 @@
     },
     "numParkingSpaces": null,
     "ParkingText": "Free and ample surface parking, much of which is covered by the building’s overhang.",
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://property.jll.com/listings/3334-richmond-ave-houston"
   },
   "buildings": null,
   "stories": null,
@@ -117,10 +118,7 @@
   "flyers": [
     "https://res.cloudinary.com/jll-global-sandbox/image/upload/v1739977646/MyListing/public/prod/nidwpgwxx4ufw76oybkt.pdf"
   ],
-  "attachments": [
-    "https://res.cloudinary.com/jll-global-sandbox/image/upload/v1739315426/MyListing/public/prod/nchiy51afefxtcblwpzn.pdf",
-    "https://res.cloudinary.com/jll-global-sandbox/image/upload/v1739977581/MyListing/public/prod/gsclvholl1wm8wmpf0bi.pdf"
-  ],
+  "attachments": [],
   "imagesSource": "property.jll.com",
   "brokerWebsite": "https://property.jll.com/listings/3334-richmond-ave-houston",
   "brokerLogo": "https://res.cloudinary.com/jll-global-olm/image/upload/v1637142411/assets/exchange/logo-noreg-highres-180.png",
@@ -135,7 +133,15 @@
   ],
   "spaces": [
     {
-      "size": 6090,
+      "size": 5093,
+      "sizeUnits": "SF"
+    },
+    {
+      "size": 975,
+      "sizeUnits": "SF"
+    },
+    {
+      "size": 629,
       "sizeUnits": "SF"
     }
   ]
