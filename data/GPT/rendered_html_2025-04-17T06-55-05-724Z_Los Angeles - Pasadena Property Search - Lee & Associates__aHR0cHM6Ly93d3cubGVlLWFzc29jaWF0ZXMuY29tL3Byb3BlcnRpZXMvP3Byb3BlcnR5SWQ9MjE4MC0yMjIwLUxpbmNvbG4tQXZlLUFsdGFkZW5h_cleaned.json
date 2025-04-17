@@ -1,0 +1,61 @@
+{
+  "name": null,
+  "description": null,
+  "shortDescription": null,
+  "status": null,
+  "activityStatus": null,
+  "propertyTypes": [],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": null,
+        "code": null
+      },
+      "county": null,
+      "city": null,
+      "zipcode": null,
+      "street": null,
+      "streetNumber": null,
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": null,
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": null,
+    "propertySizeUnits": null,
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": [],
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": null,
+  "forLease": null,
+  "contacts": [],
+  "images": [],
+  "flyers": [],
+  "attachments": [],
+  "imagesSource": null,
+  "brokerWebsite": null,
+  "brokerLogo": null,
+  "highlights": [],
+  "spaces": []
+}
