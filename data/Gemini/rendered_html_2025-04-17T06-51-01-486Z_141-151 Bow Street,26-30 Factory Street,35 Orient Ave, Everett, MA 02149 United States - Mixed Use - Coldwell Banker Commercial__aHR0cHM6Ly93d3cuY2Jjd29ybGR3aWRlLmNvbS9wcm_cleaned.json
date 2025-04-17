@@ -1,7 +1,7 @@
 {
   "name": "141-151 Bow St,26-30 Factory St,35 Orient Ave Everett",
   "description": "4.16 Acre Site consisting of 3 separate parcels with existing building structures.Located in lower Broadway abutting the former Exxon parcel.\n\n Close Proxity to Encore Casino, Assembly Row, Wellington & Sullivan T Station and Downtown Boston. Serious inquiries only with proof of funds. Buyer's agent and buyers are responsible for their due diligence.\n\nPlease contact listing agent for more details on the property. For information on the financials of the properties an NDA disclosure form must be signed.",
-  "shortDescription": null,
+  "shortDescription": "4.16 Acre Site consisting of 3 separate parcels with existing building structures.Located in lower Broadway abutting the former Exxon parcel.",
   "status": "for-sale",
   "activityStatus": true,
   "propertyTypes": [
@@ -50,7 +50,7 @@
   "parkingSpaces": null,
   "elevators": null,
   "forSale": {
-    "price": 28000000.0,
+    "price": 28000000,
     "saleCondition": null,
     "buildingSize": null,
     "buildingSizeUnits": null,
@@ -150,7 +150,7 @@
   "attachments": [
     "https://www.cbcworldwide.com/documents/vTEvXkkcU5"
   ],
-  "imagesSource": "www.cbcworldwide.com",
+  "imagesSource": "cbcworldwide.com",
   "brokerWebsite": "https://www.cbcworldwide.com/properties/GYFJLS/141-151-bow-st-26-30-factory-st-35-orient-ave-everett",
   "brokerLogo": null,
   "highlights": [],
