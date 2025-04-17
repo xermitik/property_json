@@ -1,0 +1,157 @@
+{
+  "name": "Knoxville Logistics Center Phases II and III",
+  "description": "Two distribution centers totaling 431,378 square feet located in the Roane Regional Business and Technology Park in Roane County, Tennessee. These Class A rear load facilities will feature state-of-the-art building specifications ideal for a variety of e-commerce, manufacturing, and distribution users. The developments will include above market trailer and auto parking counts as well as future industrial outside storage, and will be situated on an approximately 72-acre site. These projects will be delivered by TPA Group, an experienced Atlanta-based developer with a national industrial development platform. With a history of over 300 speculative, build-to-suit and re-development projects to date, TPA Group is adept at navigating the complex nature of development/construction management in order to successfully deliver an enduring, on time, on-budget asset.\n\nKnoxville Logistics Center Phase II - 128 Pawnook Farm Rd - Delivering APRIL 2025\nKnoxville Logistics Center Phase III - 425 Sam Rayburn Pkwy - Delivering Q3 2026",
+  "shortDescription": null,
+  "status": "for-lease",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Industrial"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Tennessee",
+        "code": "TN"
+      },
+      "county": "Roane County",
+      "city": "Lenoir City",
+      "zipcode": "37771",
+      "street": "128 Pawnook Farm Road",
+      "streetNumber": null,
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": 72,
+    "lotSizeUnits": "acres",
+    "propertySize": 431378,
+    "propertySizeUnits": "sqft",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": null,
+  "forLease": {
+    "rentableSquareFeet": 431378,
+    "rentableSquareFeetUnits": "sqft",
+    "usableSquareFeet": null,
+    "usableSquareFeetUnits": null,
+    "rate": null,
+    "rateAreaUnits": null,
+    "totalRate": null,
+    "leaseType": [
+      "Direct"
+    ],
+    "leaseTerm": null,
+    "taxesPerSquareFoot": null,
+    "taxesPerAreaUnits": null,
+    "rateType": null
+  },
+  "contacts": [
+    {
+      "fullName": "Brian Tapp, SIOR, CCIM",
+      "firstName": "Brian",
+      "lastName": "Tapp",
+      "description": null,
+      "company": null,
+      "photo": "https://cbprodcusde.blob.core.windows.net/avatar/308d513e-10d1-46db-be8a-def2a9097481.jpg",
+      "address": null,
+      "officeAddress": "Tennessee - Knoxville",
+      "phones": [
+        "865 498 6500"
+      ],
+      "email": "brian.tapp@cbre.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    },
+    {
+      "fullName": "Andrew Wilmoth, SIOR, CCIM",
+      "firstName": "Andrew",
+      "lastName": "Wilmoth",
+      "description": null,
+      "company": null,
+      "photo": "https://cbprodglde.blob.core.windows.net/avatar/3ce3d0ee-a359-4014-889b-2cdb9a9aa990.JPG",
+      "address": null,
+      "officeAddress": "Tennessee - Knoxville",
+      "phones": [
+        "865 498 6500"
+      ],
+      "email": "andrew.wilmoth@cbre.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-97142/15e0d473/771a6565-21b5-421d-9842-041acfa61f59_Photo_1_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-97142/8204a8d6/f0a12851-e3a8-4b6a-a4e7-1426775363ba_Photo_2_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-97142/fac44706/38089dd1-f208-4ba0-a46c-ad7159376c04_Photo_3_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-97142/20184d19/20e7203b-7120-4f4c-b874-328d952434f2_Photo_4_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-97142/7ad08673/8c909ef8-e769-4cc2-bfd2-73598d3816e3_Photo_5_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-97142/cb43c37b/a5650d07-769b-42f9-98d1-501e3f1b8e74_Photo_6_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-97142/7c1c7123/20f26263-9c47-4e95-ba27-06b11f86965a_Photo_7_large.jpg",
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "/resources/fileassets/US-SMPL-97142/0f9ebff1/c5e3e45a-c341-4295-9197-94c1615a5612.pdf"
+  ],
+  "attachments": [],
+  "imagesSource": "www.cbre.com",
+  "brokerWebsite": "https://www.cbre.com/properties/properties-for-lease/commercial-space/details/US-SMPL-97142/knoxville-logistics-center-phases-ii-and-iii-128-pawnook-farm-road-lenoir-city-tn-37771",
+  "brokerLogo": null,
+  "highlights": [
+    "32' Clear Height",
+    "55' x 50' Columns",
+    "±2,100 Spec Office",
+    "NEW CONSTRUCTION"
+  ],
+  "spaces": [
+    {
+      "size": 40000,
+      "sizeUnits": "sqft"
+    },
+    {
+      "size": 431378,
+      "sizeUnits": "sqft"
+    }
+  ]
+}
