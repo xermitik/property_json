@@ -1,0 +1,161 @@
+{
+  "name": "Fry's Fuel Station",
+  "description": "Fry's Food Stores have been dominating the grocery market in the Phoenix metro area. In 2023, Fry's achieved nearly $5.6 billion in sales, capturing a 28.32% market share. This makes Fry's the top grocery retailer in the region, significantly ahead of its closest competitor, Walmart, which holds a 17.83% market share. Fry's continues to expand its presence, with 93 locations in Maricopa and Pinal counties. <br/><br/>The chain's strong performance is attributed to its wide range of products and competitive pricing, which resonate well with local consumers. Overall, Fry's fuel centers provide a combination of savings, convenience, and flexibility, making them a valuable resource for consumers.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Auto Service - Gas-Conv"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Arizona",
+        "code": "AZ"
+      },
+      "county": null,
+      "city": "Glendale",
+      "zipcode": "85303",
+      "street": "SWC 67th Avenue & Montebello Avenue",
+      "streetNumber": null,
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": null,
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": 60112,
+    "propertySizeUnits": "Sq Ft",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": {
+    "price": 3222222,
+    "saleCondition": null,
+    "buildingSize": null,
+    "buildingSizeUnits": null,
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": null,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": null
+  },
+  "forLease": {
+    "rentableSquareFeet": 60112,
+    "rentableSquareFeetUnits": "Sq Ft",
+    "usableSquareFeet": null,
+    "usableSquareFeetUnits": null,
+    "rate": 2.41,
+    "rateAreaUnits": "sq ft",
+    "totalRate": null,
+    "leaseType": [
+      "Ground Lease"
+    ],
+    "leaseTerm": "15-Year with Eight 5-Year Options",
+    "taxesPerSquareFoot": null,
+    "taxesPerAreaUnits": null,
+    "rateType": null
+  },
+  "contacts": [
+    {
+      "fullName": "Paul A. Bitonti",
+      "firstName": "Paul",
+      "lastName": "Bitonti",
+      "description": "Senior Vice President Investments",
+      "company": null,
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(949) 419-3200"
+      ],
+      "email": "paul.bitonti@marcusmillichap.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "CA: 01325076"
+    },
+    {
+      "fullName": "Ryan Sarbinoff",
+      "firstName": "Ryan",
+      "lastName": "Sarbinoff",
+      "description": "First Vice President/Regional Manager",
+      "company": null,
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(602) 687-6700"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "AZ: BR675146000"
+    },
+    {
+      "fullName": "Ronald J. Balys",
+      "firstName": "Ronald",
+      "lastName": "Balys",
+      "description": "Senior Managing Director, Capital Markets",
+      "company": null,
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(716) 445-7581"
+      ],
+      "email": "ron.balys@marcusmillichap.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "CA: 01947124"
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "https://mmimageservice.azurewebsites.net/api/image/property/2f138b65-6737-41c5-bbfb-8a5a8cffc332/L",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://mmimageservice.azurewebsites.net/api/image/property/505eb6a4-a0a7-4533-9ca6-65a2a86c0980/L",
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [],
+  "imagesSource": "marcusmillichap.com",
+  "brokerWebsite": "https://www.marcusmillichap.com/properties/170838/frys-fuel-station",
+  "brokerLogo": null,
+  "highlights": [
+    "Absolute Net Ground Lease",
+    "Lease Term - 15-Year with Eight 5-Year Options",
+    "Fry's Off-Site Fuel Center with Kiosk"
+  ],
+  "spaces": []
+}
