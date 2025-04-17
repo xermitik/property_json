@@ -7,7 +7,7 @@
   "propertyTypes": [
     "office"
   ],
-  "dateAdded": 1710592010,
+  "dateAdded": 1710205610,
   "propertyInfo": {
     "address": {
       "state": {
@@ -59,7 +59,7 @@
     "usableSquareFeetUnits": null,
     "rate": 14,
     "rateAreaUnits": "sf/yr",
-    "totalRate": null,
+    "totalRate": 17,
     "leaseType": [
       "NNN Lease"
     ],
