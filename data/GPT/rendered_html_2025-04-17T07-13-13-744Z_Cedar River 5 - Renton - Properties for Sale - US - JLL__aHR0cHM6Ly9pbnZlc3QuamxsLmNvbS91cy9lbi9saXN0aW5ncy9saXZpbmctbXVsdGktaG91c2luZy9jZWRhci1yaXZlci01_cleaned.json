@@ -1,0 +1,129 @@
+{
+  "name": "Cedar River 5",
+  "description": "JLL, as an exclusive advisor, is pleased to present the outstanding opportunity to acquire the Cedar River 5 Apartments (“the Property”), an apartment property located in Renton, Washington.\n\nBuilt in 1910 and 1962, this two-building property consists of 1 two-bedroom house and 4 one-bedroom apartment units. Ownership has kept both unit interiors and building exteriors well-maintained, including new electrical panels in 2025 and updated roofs in 2020, making this an attractive asset in a desirable submarket proximate to Seattle’s core demand-drivers.\n\nLocated along the scenic Cedar River, residents at the Property benefit from suburban living with easy access to the major employment hubs of downtown Seattle, the Eastside, and the Kent Industrial Corridor. Situated in central Renton, residents are also proximate to a variety of retail and entertainment amenities. Just a 6-minute walk from downtown Renton and a 4 minute drive from The Landing shopping mall, residents can easily access over 3.5 million SF of retail within a 1.5-mile radius. The Property’s immediate location also puts it within walking distance of neighborhood recreational amenities including Cedar River Park, Jones Park, Liberty Park, and Renton Memorial Stadium.\n\nRenton High School and Sartori Elementary School are also easily walkable from the Property. The Cedar River 5 Apartments represent an excellent opportunity for investors seeking both reliable cash flow and the potential for continued rent growth at a well-located and maintained property.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "multifamily"
+  ],
+  "dateAdded": 1713235200,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Washington",
+        "code": "WA"
+      },
+      "county": null,
+      "city": "Renton",
+      "zipcode": null,
+      "street": null,
+      "streetNumber": null,
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": "Located along the scenic Cedar River, residents at the Property benefit from suburban living with easy access to the major employment hubs of downtown Seattle, the Eastside, and the Kent Industrial Corridor. Situated in central Renton, residents are also proximate to a variety of retail and entertainment amenities. Just a 6-minute walk from downtown Renton and a 4 minute drive from The Landing shopping mall, residents can easily access over 3.5 million SF of retail within a 1.5-mile radius. The Property’s immediate location also puts it within walking distance of neighborhood recreational amenities including Cedar River Park, Jones Park, Liberty Park, and Renton Memorial Stadium.",
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": 0.28,
+    "lotSizeUnits": "acres",
+    "propertySize": null,
+    "propertySizeUnits": null,
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": 2,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": "N/A",
+  "forSale": null,
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Casey Zejdlik",
+      "firstName": "Casey",
+      "lastName": "Zejdlik",
+      "description": "Senior Director",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/w_1920,q_auto/w_108,q_auto/v1743721372/prod/wrhz7jzmniqhxfldraaj.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    },
+    {
+      "fullName": "Michael Lyford",
+      "firstName": "Michael",
+      "lastName": "Lyford",
+      "description": "Director, Capital Markets",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/w_1920,q_auto/w_108,q_auto/v1742382085/prod/kaj0rwlie5ooyqygl5rx.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    },
+    {
+      "fullName": "Reed Curtis",
+      "firstName": "Reed",
+      "lastName": "Curtis",
+      "description": "Director, Capital Markets",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/w_1920,q_auto/w_108,q_auto/v1742543683/prod/gvvrlks9xtbkftwtbm1p.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/w_1920,q_auto/ar_2.3333333333333335,c_crop/w_1497,q_auto,c_scale/v1742948211/Prod/DealX/Img/3d527b7e-cd67-4f30-ae2d-4a100ae613dc.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/w_1920,q_auto/ar_2.3333333333333335,c_crop/w_1497,q_auto,c_scale/v1742948221/Prod/DealX/Img/8395733f-7d01-4f6d-b9dd-dd09a3ca0729.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/w_1920,q_auto/ar_2.3333333333333335,c_crop/w_1497,q_auto,c_scale/v1742948277/Prod/DealX/Img/bf68388a-a3da-42c4-add3-5d58dc00429b.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/w_1920,q_auto/ar_2.3333333333333335,c_crop/w_1497,q_auto,c_scale/v1742948293/Prod/DealX/Img/8761dc32-b662-4949-b16b-8b865971577f.jpg"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [],
+  "imagesSource": "invest.jll.com",
+  "brokerWebsite": "https://invest.jll.com/us/en/listings/living-multi-housing/cedar-river-5",
+  "brokerLogo": "https://cdn-ukwest.onetrust.com/logos/8b38fb7a-e22c-4087-8432-aa293b8c2e1a/85ff6ee2-d134-48df-8a49-1f8c29013aa4/561d5988-401d-43d1-a0b1-066feb8fcce6/jll-logo-freelogovectors.net_.png",
+  "highlights": [
+    "Immediate access to the region's largest employment drivers in Seattle and the Eastside",
+    "Well-positioned for revenue enhancement from renovations to unit interiors",
+    "Close proximity to an abundance of retail and recreational amenities",
+    "In-Migration, lack of new supply, and affordability bolster submarket fundamentals"
+  ],
+  "spaces": [
+    {
+      "size": 5,
+      "sizeUnits": "units"
+    }
+  ]
+}
