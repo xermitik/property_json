@@ -1,0 +1,172 @@
+{
+  "name": "Eliot Tower Retail Condo R2",
+  "description": "CBRE, INC. HAS BEEN APPOINTED AS THE EXCLUSIVE AGENT FOR THE SALE OF THE ELIOT TOWER CONDOMINIUM UNIT R2, WHICH ENCOMPASSES APPROXIMATELY 4,789 SQUARE FEET OF PRIME RETAIL SPACE HOUSING LONG TERM TENANT PORTLAND ART MUSEUM’S RENTAL SALES GALLERY, WITH A REMAINING VACANCY OF 1,601 SQUARE FEET. THIS UNIQUE PROPERTY\nPROVIDES AN UNMATCHED OPPORTUNITY FOR AN OWNER USER TO ESTABLISH A LOCATION IN DOWNTOWN PORTLAND WHILE COLLECTING INCOME AND HEDGING THEIR OWN EXPENSES AGAINST A LONG TERM, RELIABLE TENANT THAT RELIES ON THIS LOCATION DUE TO THE PROXIMITY OF ITS PARENT TENANT, PORTLAND ART MUSEUM, DIRECTLY ACROSS THE STREET.\n\nPortland Art Museum and Canoe operate under NNN leases, while Harris &amp; Tailor operates under a gross lease on a month to month term. It is important to note that the Portland Art Museum, being a not-for-profit entity, benefits from tax-exempt status for its leased space. Constructed in 2006, the Eliot Tower stands as an 18-story modern condominium high-rise that integrates retail and residential uses, featuring street-level retail complemented by 223 condominium homes above. This property boasts LEED certification, underscoring its commitment to sustainability.\nStrategically located in the heart of Portland’s Central Business District, the Eliot Tower enjoys exceptional walkability with a score of 99/100, a transit score of 95/100, and a bike score of 93/100, making it an attractive investment opportunity within a vibrant urban environment.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Retail"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Oregon",
+        "code": "OR"
+      },
+      "county": null,
+      "city": "Portland",
+      "zipcode": "97205",
+      "street": "1237 Southwest 10th Avenue",
+      "streetNumber": null,
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": 2006,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": 4789,
+    "propertySizeUnits": "sq ft",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 45.516297,
+      "longitude": -122.684446
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": 18,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": {
+    "price": 1245140,
+    "saleCondition": null,
+    "buildingSize": null,
+    "buildingSizeUnits": null,
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": null,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Megan Wallachy",
+      "firstName": "Megan",
+      "lastName": "Wallachy",
+      "description": null,
+      "company": "CBRE",
+      "photo": null,
+      "address": null,
+      "officeAddress": "Oregon - Portland",
+      "phones": [
+        "503 221 4850"
+      ],
+      "email": "megan.wallachy@cbre.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "OR Lic. #200603442"
+    },
+    {
+      "fullName": "Joey Blatner",
+      "firstName": "Joey",
+      "lastName": "Blatner",
+      "description": null,
+      "company": "CBRE",
+      "photo": null,
+      "address": null,
+      "officeAddress": "Oregon - Portland",
+      "phones": [
+        "503 221 4848"
+      ],
+      "email": "joey.blatner@cbre.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "OR Lic. #980500024"
+    },
+    {
+      "fullName": "Taki Chalkiopoulos",
+      "firstName": "Taki",
+      "lastName": "Chalkiopoulos",
+      "description": null,
+      "company": "CBRE",
+      "photo": "https://cbprodcusde.blob.core.windows.net/avatar/4a6c05d3-df60-48d1-a05b-832489f91c8f.jpg",
+      "address": null,
+      "officeAddress": "Oregon - Portland",
+      "phones": [
+        "503 221 4832"
+      ],
+      "email": "taki.chalk@cbre.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-176286/2b2f317a/7fe863cb-b058-40b8-a6b6-c8a6b70d29f4_Photo_1_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-176286/90bccce3/9fed7b58-d4a9-4e5f-be16-04e1728fe6f7_Photo_2_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-176286/1aa80043/77eb2d98-bb8f-40aa-9476-dd9caab0971d_Photo_3_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-176286/12a9cf7d/246f0ad8-5f10-4f5f-8841-de41ceeea5fd_Photo_4_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-176286/9bb46f7c/17077284-655e-4b27-b8b1-8a104f656916_Photo_5_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-176286/b921a5f6/e9986ee0-9687-4e9b-9cd0-14669c0dc265_Photo_6_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-176286/8d5b6a99/975b4b28-0902-493a-b01b-40945022c8bc_Photo_7_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-176286/c52d95a0/fedd1680-146d-457e-bc1e-e05981a4b117_Photo_8_large.jpg",
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [],
+  "imagesSource": "www.cbre.com",
+  "brokerWebsite": "https://www.cbre.com/properties/properties-for-lease/commercial-space/details/US-SMPL-176286/eliot-tower-retail-condo-r2-1237-southwest-10th-avenue-portland-or-97205",
+  "brokerLogo": null,
+  "highlights": [
+    "Mixed-Use Building: Strategically designed to generate consistent foot traffic through diverse retail and residential spaces.",
+    "Income Offset: Reliable and stable income from Portland Art Museum provides security and stability while trying to establish a new retail location.",
+    "NNN Leases: Portland Art Museum and Canoe are on triple net leases, ensuring reimbursement of building expenses such as taxes, insurance, and maintenance.",
+    "Prime Location: Situated adjacent to Safeway and amidst popular downtown retail.",
+    "Proximity to Portland State University: Located less than half a mile from PSU’s 44-acre campus, serving over 21,000 students and contributing $1.8B to the local economy through its extensive academic programs.",
+    "Portland Art Museum Renovation: PAM is currently undergoing an $11M Campus Transformation that will include an entrance on 10th street from their original building located directly across the street from the subject property. This entrance will provide seamless connection between the two buildings, encourage increased foot traffic to The Eliot, and secure the need to renew the Lease for Portland Art Museum in this location."
+  ],
+  "spaces": []
+}
