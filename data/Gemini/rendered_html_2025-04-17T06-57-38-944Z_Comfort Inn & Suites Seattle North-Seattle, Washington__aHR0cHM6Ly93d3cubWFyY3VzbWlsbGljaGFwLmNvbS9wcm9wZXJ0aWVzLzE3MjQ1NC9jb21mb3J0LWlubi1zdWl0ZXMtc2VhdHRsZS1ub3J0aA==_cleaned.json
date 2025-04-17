@@ -1,6 +1,6 @@
 {
   "name": "Comfort Inn & Suites Seattle North",
-  "description": "Marcus & Millichap has been chosen to exclusively market for sale the Comfort Inn & Suites North Seattle, a four-story hotel located in northwest Seattle. The property consists of 72 interior corridor guest rooms, a business center, fitness center, complimentary breakfast, and guest laundry facilities. Each guest room features a TV, work desk, microwave, and coffee maker. Select suites include a full kitchen/dining space and/or a sofa bed.<br/><br/>The Comfort Inn & Suites North Seattle is ideally situated along State Highway 99, less than a mile from Interstate 5 and seven miles from Downtown Seattle. The hotel is within 10 miles of many popular attractions including Woodland Park Zoo, the Space Needle, Seattle Aquarium, Pike Place Market, and Pier 55. It is also a short drive to the metro's major professional sporting venues, including Climate Pledge Arena, Lumen Field, and T-Mobile Park. Other nearby demand generators include UW Medical Center, Seattle Children's Hospital, the University of Washington, and the Seattle Convention Center.<br/><br/>The Comfort Inn & Suites North Seattle represents the opportunity to acquire a franchised hotel in a stable market near several demand drivers. Our Pro Forma analysis assumes continued modest growth supported by the increasing population and demand growth in the Seattle region.",
+  "description": "Marcus & Millichap has been chosen to exclusively market for sale the Comfort Inn & Suites North Seattle, a four-story hotel located in northwest Seattle. The property consists of 72 interior corridor guest rooms, a business center, fitness center, complimentary breakfast, and guest laundry facilities. Each guest room features a TV, work desk, microwave, and coffee maker. Select suites include a full kitchen/dining space and/or a sofa bed.\n\nThe Comfort Inn & Suites North Seattle is ideally situated along State Highway 99, less than a mile from Interstate 5 and seven miles from Downtown Seattle. The hotel is within 10 miles of many popular attractions including Woodland Park Zoo, the Space Needle, Seattle Aquarium, Pike Place Market, and Pier 55. It is also a short drive to the metro's major professional sporting venues, including Climate Pledge Arena, Lumen Field, and T-Mobile Park. Other nearby demand generators include UW Medical Center, Seattle Children's Hospital, the University of Washington, and the Seattle Convention Center.\n\nThe Comfort Inn & Suites North Seattle represents the opportunity to acquire a franchised hotel in a stable market near several demand drivers. Our Pro Forma analysis assumes continued modest growth supported by the increasing population and demand growth in the Seattle region.",
   "shortDescription": null,
   "status": "for-sale",
   "activityStatus": true,
@@ -42,7 +42,8 @@
     },
     "numParkingSpaces": null,
     "ParkingText": null,
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://www.marcusmillichap.com/properties/172454/comfort-inn-suites-seattle-north"
   },
   "buildings": null,
   "stories": 4,
@@ -52,8 +53,8 @@
   "forSale": {
     "price": 10000000,
     "saleCondition": null,
-    "buildingSize": null,
-    "buildingSizeUnits": null,
+    "buildingSize": 50288,
+    "buildingSizeUnits": "sq ft",
     "netSize": null,
     "netSizeUnits": null,
     "lotSize": null,
@@ -176,10 +177,5 @@
     "Within 8 Miles of the Metro's Major Sporting Venues, Including Climate Pledge Arena, Lumen Field, and T-Mobile Park",
     "9 Miles to Seattle Convention Center (335 Events Per Year / 360k+ Attendees in 2023)"
   ],
-  "spaces": [
-    {
-      "size": 50288,
-      "sizeUnits": "sq ft"
-    }
-  ]
+  "spaces": []
 }
