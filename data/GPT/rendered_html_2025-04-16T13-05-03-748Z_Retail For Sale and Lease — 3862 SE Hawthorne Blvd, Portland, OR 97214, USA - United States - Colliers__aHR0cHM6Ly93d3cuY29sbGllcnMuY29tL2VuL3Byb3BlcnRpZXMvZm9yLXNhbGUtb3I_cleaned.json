@@ -1,0 +1,142 @@
+{
+  "name": "For Sale or Lease | Hawthorne Theatre Building",
+  "description": "The Hawthorne Masonic Building, a historic landmark, stands at the bustling crossroads of SE Hawthorne Boulevard and SE César E. Chavez Boulevard in SE Portland. Constructed in 1919, it was initially a pivotal gathering place for the Masonic Community. Over the last hundred years, this venerable structure has witnessed considerable evolution and transformation. It has accommodated an eclectic mix of tenants ranging from pubs, a comedy club, and a restaurant to an art gallery, a record store, and, in its latest incarnation, a venue for live music and performances.\nSitting at one of the busiest intersections on the east side of Portland, the Hawthorne Masonic Building provides any business significant visibility to grow its brand. The available suite includes the second floor space, which features an elegant ballroom adorned with stunning historic windows, high ceilings, and abundant natural light. Paired with the third-floor office space, this suite provides a fantastic opportunity for an event venue, creative office, or other creative use.\nContact brokers for Offering Memorandum.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Retail"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Oregon",
+        "code": "OR"
+      },
+      "county": null,
+      "city": "Portland",
+      "zipcode": "97214",
+      "street": "SE Hawthorne Blvd",
+      "streetNumber": "3862",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": 1919,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": null,
+    "propertySizeUnits": null,
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 45.5118588,
+      "longitude": -122.6231277
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": "N/A",
+  "forSale": {
+    "price": null,
+    "saleCondition": null,
+    "buildingSize": 16630,
+    "buildingSizeUnits": "sq ft",
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": null,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": null
+  },
+  "forLease": {
+    "rentableSquareFeet": null,
+    "rentableSquareFeetUnits": null,
+    "usableSquareFeet": null,
+    "usableSquareFeetUnits": null,
+    "rate": null,
+    "rateAreaUnits": null,
+    "totalRate": null,
+    "leaseType": null,
+    "leaseTerm": null,
+    "taxesPerSquareFoot": null,
+    "taxesPerAreaUnits": null,
+    "rateType": null
+  },
+  "contacts": [
+    {
+      "fullName": "Robbie MacNichol",
+      "firstName": "Robbie",
+      "lastName": "MacNichol",
+      "description": "Senior Associate",
+      "company": "Colliers",
+      "photo": "https://colliersapps.blob.core.windows.net/people/5d0e343e-167e-4c95-a8d7-0316037e3f3d-170-170.png",
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "+1 503 499 0089"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "201219814"
+    },
+    {
+      "fullName": "Tamer Riad",
+      "firstName": "Tamer",
+      "lastName": "Riad",
+      "description": "Senior Associate",
+      "company": "Colliers",
+      "photo": "https://colliersapps.blob.core.windows.net/people/fbc0a185-0e4f-4907-b805-e3066334a36f-170-170.png",
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "+1 503 499 0076"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://listingsprod.blob.core.windows.net/ourlistings-usa/512ab290-c96a-4ae0-9ec5-626c869c3c67/285050e4-aec8-4d33-b06f-213d2ab89c60-w"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "https://listingsprod.blob.core.windows.net/ourlistings-usa/512ab290-c96a-4ae0-9ec5-626c869c3c67/84945bf8-c02a-4bca-8b2c-835f4e885369"
+  ],
+  "attachments": [],
+  "imagesSource": "colliers.com",
+  "brokerWebsite": "https://www.colliers.com/en/properties/for-sale-or-lease-hawthorne-theatre-building/usa-3862-se-hawthorne-blvd-portland-or-97214-usa/usa1134652",
+  "brokerLogo": "https://www.colliers.com/-/media/images/colliers/unitedstates/national/footer/logofooter.ashx?bid=19443a8c23424c689d86c4d1320eac0f",
+  "highlights": [],
+  "spaces": [
+    {
+      "size": null,
+      "sizeUnits": null
+    }
+  ]
+}
