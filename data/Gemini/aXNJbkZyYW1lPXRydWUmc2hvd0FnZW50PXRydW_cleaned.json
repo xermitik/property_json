@@ -1,0 +1,167 @@
+{
+  "name": "1309 East 7th Street",
+  "description": "This historic commercial building is located in the heart of East Austin, a vibrant and evolving district. Theproperty has undergone significant improvements over the past decade, including a new metal roof,updated flooring, fresh paint, and modernized security features.\n\nExtensive Renovations: Over $100,000 in upgrades in the past ten years, including: New wood floors, paint, metal roof, siding, and windows. Updated bathroom, plumbing, and HVAC system. Enhanced security with ADT cameras and security system. New fencing, signage, and landscaping.\nPrime Location: Situated on 7th Street, one of Austin’s key east-west corridors, providing excellent visibility and accessibility.\nAmple Parking: Off-street parking available via an alleyway.\nDiverse Tenant Base: Occupied by professional services, including a law firm, government offices, and a transportation rental headquarters.\nTransit Accessibility: Near a bus stop and within walking distance of Interstate 35, offering strong connectivity for businesses and customers.",
+  "shortDescription": "This historic commercial building is located in the heart of East Austin, a vibrant and evolving district. Theproperty has undergone significant improvements over the past decade, including a new metal roof,updated flooring, fresh paint, and modernized security features.",
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Office",
+    "Shopping Center / Retail"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Texas",
+        "code": "TX"
+      },
+      "county": null,
+      "city": "Austin",
+      "zipcode": "78702",
+      "street": "1309 East 7th Street",
+      "streetNumber": "1309",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": null,
+    "zoneCode": "CS-CO-MU-NP",
+    "apu": null,
+    "apn": null,
+    "yearBuilt": 1909,
+    "yearRenovated": 2014,
+    "lotSize": 6098,
+    "lotSizeUnits": "sq ft",
+    "propertySize": 1554,
+    "propertySizeUnits": "sq ft",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": "Wood Frame",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "numParkingSpaces": 5,
+    "ParkingText": "Off Street",
+    "propertyUse": "Office/Retail"
+  },
+  "buildings": 1,
+  "stories": 2,
+  "buildingClass": [
+    "B"
+  ],
+  "parkingSpaces": 5,
+  "elevators": null,
+  "forSale": {
+    "price": 2750000,
+    "saleCondition": null,
+    "buildingSize": 1554,
+    "buildingSizeUnits": "sq ft",
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": 0.14,
+    "lotSizeUnits": "acres",
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": 1769.63,
+    "pricePerSqFtUnits": "sq ft",
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Alice Duffy",
+      "firstName": "Alice",
+      "lastName": "Duffy",
+      "description": null,
+      "company": "KW Commercial",
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232255.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232250.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232251.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232252.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232253.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232254.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232256.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232257.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232258.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232259.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232261.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232262.jpg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232263.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232264.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232265.jpeg?autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4067582/16232266.jpeg?autorotate=true",
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [
+    "https://s3.amazonaws.com/realnex.production/ListingAttachment/4067582/16232267.pdf"
+  ],
+  "imagesSource": "realnex.com",
+  "brokerWebsite": "https://realnex.com/listings/4067582/1309-e-7th-st",
+  "brokerLogo": null,
+  "highlights": [],
+  "spaces": []
+}
