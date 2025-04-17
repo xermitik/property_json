@@ -42,7 +42,8 @@
     },
     "numParkingSpaces": null,
     "ParkingText": null,
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://property.jll.com/listings/3334-richmond-ave-houston"
   },
   "buildings": null,
   "stories": null,
