@@ -1,0 +1,131 @@
+{
+  "name": "US 290 & Sawyer Ranch Road - Lot 1AC",
+  "description": "This parcel, part of a larger group of parcels, is a rare investment opportunity located along a prime stretch of Highway 290 in Dripping Springs. Thoughtfully prepared for future development, it features existing infrastructure, including regional stormwater retention,waterline connections, and electrical systems. Zoning restrictions and design approval requirements ensure high-quality development in line with the property’s legacy and aesthetic standards. With annexation into Dripping Springs and a strategic position at a signalized county road intersection, this tract offers excellent potential for commercial or mixed-use projects.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Vacant Land - Commercial",
+    "Vacant Land - Office",
+    "Vacant Land - Retail"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Texas",
+        "code": "TX"
+      },
+      "county": "Hays County",
+      "city": "Dripping Springs",
+      "zipcode": "78620",
+      "street": null,
+      "streetNumber": null,
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": "Prime Location: Frontage on US Highway 290 and County Road with two curb cuts for convenient access. Signalized Intersection: High visibility and ease of access for future development. Infrastructure in Place: Completed stormwater and waterline connections at front of site, along with electrical tie-in boxon-site. Regional Retention Pond: Designed to city specifications to support the entire 33-acre tract. Utility Access: Water provided by WTCPUA; each site needs its own septic. Flexible Development: 60% impervious coverage allowed, with approval required for new structures. ADDITIONAL NOTES Future POA Formation: Once the entire tract is sold, remaining land, including the retention pond, will be placed undera Property Owners’ Association (POA) to relieve ongoing responsibilities and property tax burdens. Businesses on Site: Gas Station with Food Sales, Children’s Daycare, Children’s Dance Studio, Car Wash, and Three-Story Medical Office Building.",
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": 2.77,
+    "lotSizeUnits": "acres",
+    "propertySize": 120661,
+    "propertySizeUnits": "sq ft",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": "N/A",
+  "forSale": {
+    "price": 1527213,
+    "saleCondition": null,
+    "buildingSize": null,
+    "buildingSizeUnits": null,
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": 2.77,
+    "lotSizeUnits": "acres",
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": 12.66,
+    "pricePerSqFtUnits": "sq ft",
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Alice Duffy",
+      "firstName": "Alice",
+      "lastName": "Duffy",
+      "description": null,
+      "company": "KW Commercial",
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267174.jpg?autorotate=true",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267163.jpg?autorotate=true",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267157.jpg?autorotate=true",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267159.jpg?autorotate=true",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267160.jpg?autorotate=true",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267161.jpg?autorotate=true",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267164.jpg?autorotate=true",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267158.jpg?autorotate=true",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267162.jpg?autorotate=true",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267165.jpg?autorotate=true"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "https://s3.amazonaws.com/realnex.production/ListingAttachment/4069001/16267175.pdf"
+  ],
+  "attachments": [],
+  "imagesSource": "realnex.com",
+  "brokerWebsite": "https://realnex.com/listings/4069001/us-290-and-sawyer-ranch-road-lot-1ac",
+  "brokerLogo": null,
+  "highlights": [
+    "Prime Location: Frontage on US Highway 290 and County Road with two curb cuts for convenient access.",
+    "Signalized Intersection: High visibility and ease of access for future development.",
+    "Infrastructure in Place: Completed stormwater and waterline connections at front of site, along with electrical tie-in boxon-site.",
+    "Regional Retention Pond: Designed to city specifications to support the entire 33-acre tract.",
+    "Utility Access: Water provided by WTCPUA; each site needs its own septic.",
+    "Flexible Development: 60% impervious coverage allowed, with approval required for new structures.",
+    "ADDITIONAL NOTES Future POA Formation: Once the entire tract is sold, remaining land, including the retention pond, will be placed undera Property Owners’ Association (POA) to relieve ongoing responsibilities and property tax burdens.",
+    "Businesses on Site: Gas Station with Food Sales, Children’s Daycare, Children’s Dance Studio, Car Wash, and Three-Story Medical Office Building."
+  ],
+  "spaces": [
+    {
+      "size": 120661,
+      "sizeUnits": "sq ft"
+    }
+  ]
+}
