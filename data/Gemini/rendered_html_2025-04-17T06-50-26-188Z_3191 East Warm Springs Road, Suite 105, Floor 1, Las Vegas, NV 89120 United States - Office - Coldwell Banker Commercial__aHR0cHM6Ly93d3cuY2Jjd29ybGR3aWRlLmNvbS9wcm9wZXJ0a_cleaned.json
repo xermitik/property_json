@@ -7,7 +7,7 @@
   "propertyTypes": [
     "Office"
   ],
-  "dateAdded": 1634544000,
+  "dateAdded": 1634553600,
   "propertyInfo": {
     "address": {
       "state": {
@@ -17,7 +17,7 @@
       "county": null,
       "city": "Las Vegas",
       "zipcode": "89120",
-      "street": "3191 East Warm Springs Road, Suite 105, Floor 1",
+      "street": "3191 East Warm Springs Road",
       "streetNumber": "3191",
       "unit": "Suite 105, Floor 1",
       "cbsaCode": null,
@@ -73,7 +73,7 @@
       "company": "Coldwell Banker Commercial Premier",
       "photo": "https://cbcimg.b-cdn.net/p256x256/user/75Ra6RvI/photo/LWxEQWJ/profile-photo.jpg",
       "address": null,
-      "officeAddress": null,
+      "officeAddress": "Las Vegas, NV",
       "phones": [
         "702-701-9700"
       ],
