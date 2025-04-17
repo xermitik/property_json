@@ -1,0 +1,158 @@
+{
+  "name": "Newer Class A Office Space - 4,516 SF Close to Downtown",
+  "description": "Hard to find large, modern office suite near Downtown. Large second floor suite layout includes open work area (can easily accomodate up to 15 people) with five offices and break area. On-site parking. System furniture in place. Exclusive balcony with great views. Ready to occupy!\n\nLocated in a newer Class A office building with close proximity to the Downtown core and easy freeway access.",
+  "shortDescription": "Hard to find large, modern office suite near Downtown. Large second floor suite layout includes open work area (can easily accomodate up to 15 people) with five offices and break area. On-site parking.",
+  "status": "for-lease",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Office"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "California",
+        "code": "CA"
+      },
+      "county": null,
+      "city": "San Luis Obispo",
+      "zipcode": "93401",
+      "street": "Archer Ave",
+      "streetNumber": "1327",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "zoneCode": "C-S Commercial Service",
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": 4516,
+    "propertySizeUnits": "SF",
+    "propertySizeText": "Entire Second Floor (4,516 SF)",
+    "layoutText": "5 Offices, Open Work Area, Kitchenette and Restrooms",
+    "construction": null,
+    "coordinates": {
+      "latitude": 35.2735522,
+      "longitude": -120.6680871
+    },
+    "numParkingSpaces": null,
+    "ParkingText": "On-Site, 1/300 SF",
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": [
+    "Class A"
+  ],
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": null,
+  "forLease": {
+    "rentableSquareFeet": null,
+    "rentableSquareFeetUnits": null,
+    "usableSquareFeet": null,
+    "usableSquareFeetUnits": null,
+    "rate": 2.95,
+    "rateAreaUnits": "sq ft",
+    "totalRate": null,
+    "leaseType": [
+      "Modified Gross"
+    ],
+    "leaseTerm": null,
+    "taxesPerSquareFoot": null,
+    "taxesPerAreaUnits": null,
+    "rateType": null
+  },
+  "contacts": [
+    {
+      "fullName": "Preston Thomas",
+      "firstName": "Preston",
+      "lastName": "Thomas",
+      "description": null,
+      "company": "Colliers",
+      "photo": "https://colliersapps.blob.core.windows.net/people/76af0384-b39e-4f83-b63a-600f126211f2-170-170.png",
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "+1 805 544 3900"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "01378821"
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/c3b1b80c-72ea-4a20-8d0d-126452408dad-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/1be34353-39a1-46ed-917e-f7f1ec657756-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/760e76b7-b784-42e1-b50a-1f0de020b4d8-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/5b6c4769-4d10-404c-a3e0-bd43f1d25ead-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/63248441-dbaf-4557-b8bc-cda156e357ea-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/7f909a70-dd30-461e-842f-a6c88d8ccbd5-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/2425773f-7ead-482d-ba5d-28bafe544d14-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/08ac5e59-8c2a-4d9b-a1ca-6b643bf89ab8-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/470dbd05-bfde-4635-851e-aab7b46f1b80-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/2890aae2-a3fa-4e91-a5d2-64247f11ec50-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/1f374c3e-8adc-4dc0-bbe8-09566d8f4481-w",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/6bafbdef-ea93-4cba-8938-565c8c4e396e/2e2783ca-281a-444f-b280-74505325f977-w",
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [
+    "https://indd.adobe.com/view/8544e320-ce26-4b29-9985-456b9785407b"
+  ],
+  "imagesSource": "www.colliers.com",
+  "brokerWebsite": "https://www.colliers.com/en/properties/newer-class-a-office-space-4516-sf-close-to-downtown/usa-1327-archer-ave-san-luis-obispo-ca-93401-usa/usa1143489",
+  "brokerLogo": "/-/media/images/colliers/unitedstates/national/footer/logofooter.ashx?bid=19443a8c23424c689d86c4d1320eac0f",
+  "highlights": [
+    "Class A Office Building",
+    "Near Downtown",
+    "On-Site Parking",
+    "System Furniture in Place"
+  ],
+  "spaces": [
+    {
+      "size": 4516,
+      "sizeUnits": "SF"
+    }
+  ]
+}
