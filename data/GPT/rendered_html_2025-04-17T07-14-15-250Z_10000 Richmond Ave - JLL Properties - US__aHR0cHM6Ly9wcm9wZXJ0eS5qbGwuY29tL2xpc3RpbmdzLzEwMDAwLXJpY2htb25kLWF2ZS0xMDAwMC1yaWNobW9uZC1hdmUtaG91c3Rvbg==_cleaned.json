@@ -1,0 +1,161 @@
+{
+  "name": "10000 Richmond Ave",
+  "description": "",
+  "shortDescription": "",
+  "status": "for-lease",
+  "activityStatus": true,
+  "propertyTypes": [
+    "office"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Texas",
+        "code": "TX"
+      },
+      "county": null,
+      "city": "Houston",
+      "zipcode": "77042",
+      "street": "Richmond Ave",
+      "streetNumber": "10000",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": "Energy Corridor",
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": null,
+    "propertySizeUnits": null,
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 29.729132,
+      "longitude": -95.549539
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": "N/A",
+  "forSale": null,
+  "forLease": {
+    "rentableSquareFeet": null,
+    "rentableSquareFeetUnits": null,
+    "usableSquareFeet": null,
+    "usableSquareFeetUnits": null,
+    "rate": null,
+    "rateAreaUnits": null,
+    "totalRate": null,
+    "leaseType": [
+      "Sublease"
+    ],
+    "leaseTerm": null,
+    "taxesPerSquareFoot": null,
+    "taxesPerAreaUnits": null,
+    "rateType": null
+  },
+  "contacts": [
+    {
+      "fullName": "Paul Penland",
+      "firstName": "Paul",
+      "lastName": "Penland",
+      "description": "Executive Vice President",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733684994/broker_profile_management_PROD/mi8bmtthcauucqiowt8x.jpg",
+      "address": null,
+      "officeAddress": "2020 K Street NW Suite 1100, Washington, DC 20006",
+      "phones": [
+        "+1-713-376-5250"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    },
+    {
+      "fullName": "Kendall Wallace",
+      "firstName": "Kendall",
+      "lastName": "Wallace",
+      "description": "Sr. Transaction Manager, Office Tenant Representation",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733678554/broker_profile_management_PROD/olo6koud57eysroydpsi.jpg",
+      "address": null,
+      "officeAddress": "2020 K Street NW Suite 1100, Washington, DC 20006",
+      "phones": [
+        "+1-713-823-3637"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    },
+    {
+      "fullName": "Wesley House",
+      "firstName": "Wesley",
+      "lastName": "House",
+      "description": "Associate",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733677133/broker_profile_management_PROD/hun6wywb0b41q6wbzbwa.jpg",
+      "address": null,
+      "officeAddress": "2020 K Street NW Suite 1100, Washington, DC 20006",
+      "phones": [
+        "+1 832 703 9930"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    },
+    {
+      "fullName": "Cody Little",
+      "firstName": "Cody",
+      "lastName": "Little",
+      "description": "Vice President",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1738185543/broker_profile_management_PROD/lotslrbyvrvdaovyda55.jpg",
+      "address": null,
+      "officeAddress": "2020 K Street NW Suite 1100, Washington, DC 20006",
+      "phones": [
+        "+1 713 888 4042"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://res.cloudinary.com/marketsphere/image/upload/f_avif,ar_1.0,c_fill,w_1920,q_auto/t_main_us/aylosgf7au76tssx0hzk"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "https://property.jll.com/listings/10000-richmond-ave-10000-richmond-ave-houston/brochure"
+  ],
+  "attachments": [],
+  "imagesSource": "property.jll.com",
+  "brokerWebsite": "https://property.jll.com/listings/10000-richmond-ave-10000-richmond-ave-houston",
+  "brokerLogo": "https://res.cloudinary.com/jll-global-olm/image/upload/v1637142411/assets/exchange/logo-noreg-highres-180.png",
+  "highlights": [],
+  "spaces": [
+    {
+      "size": null,
+      "sizeUnits": null
+    }
+  ]
+}
