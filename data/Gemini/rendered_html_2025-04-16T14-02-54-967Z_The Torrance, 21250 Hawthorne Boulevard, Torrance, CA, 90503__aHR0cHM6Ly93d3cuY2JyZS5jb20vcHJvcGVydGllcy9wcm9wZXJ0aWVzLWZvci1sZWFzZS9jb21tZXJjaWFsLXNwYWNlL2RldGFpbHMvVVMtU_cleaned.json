@@ -1,0 +1,181 @@
+{
+  "name": "The Torrance",
+  "description": "The Torrance is in an amenities rich environment unlike any other building in the South Bay. Flowing into the lobby, Steelhead Coffee serves freshly brewed artisan coffee, espresso, tea, kombucha, light breakfast, and lunch fare to compliment your day. move, the onsite fitness center, is designed to motivate with knowledgeable health coaches, state-of-the-art equipment, and curated fitness classes to fit tenants’ busy schedule. The resort-style locker rooms feature showers, private changing areas, and towel service so that you don’t miss a beat.",
+  "shortDescription": null,
+  "status": "for-lease",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Office"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "California",
+        "code": "CA"
+      },
+      "county": null,
+      "city": "Torrance",
+      "zipcode": "90503",
+      "street": "21250 Hawthorne Boulevard",
+      "streetNumber": "21250",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": null,
+    "propertySizeUnits": null,
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 33.836323,
+      "longitude": -118.352805
+    },
+    "numParkingSpaces": null,
+    "ParkingText": "3.5/1000 parking in structure",
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": null,
+  "forLease": {
+    "rentableSquareFeet": null,
+    "rentableSquareFeetUnits": null,
+    "usableSquareFeet": null,
+    "usableSquareFeetUnits": null,
+    "rate": null,
+    "rateAreaUnits": null,
+    "totalRate": null,
+    "leaseType": [
+      "Direct"
+    ],
+    "leaseTerm": null,
+    "taxesPerSquareFoot": null,
+    "taxesPerAreaUnits": null,
+    "rateType": "Full Service Gross (FSG)"
+  },
+  "contacts": [
+    {
+      "fullName": "Tom Sheets",
+      "firstName": "Tom",
+      "lastName": "Sheets",
+      "description": null,
+      "company": "CBRE",
+      "photo": "https://cbprodcusde.blob.core.windows.net/avatar/8eef1d4b-435c-4489-ab41-0aeae3079270.JPG",
+      "address": null,
+      "officeAddress": "California - South Bay",
+      "phones": [
+        "310 363 4943"
+      ],
+      "email": "tom.sheets@cbre.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "01252183"
+    },
+    {
+      "fullName": "Quint Carroll",
+      "firstName": "Quint",
+      "lastName": "Carroll",
+      "description": null,
+      "company": "CBRE",
+      "photo": "https://cbprodcusde.blob.core.windows.net/avatar/9e3314ed-9f98-4469-b6a1-0caa20773ae8.jpg",
+      "address": null,
+      "officeAddress": "California - South Bay",
+      "phones": [
+        "310 363 4973"
+      ],
+      "email": "quint.carroll@cbre.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "01914692"
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-65846/09384c59/0054e4e0-f993-488b-8486-3e2a8909cb0c_Photo_1_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-65846/c6ca9466/81c3574d-1c06-4a5a-b318-c28737af9021_Photo_2_large.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "/resources/fileassets/US-SMPL-65846/942b03ea/29d88d9e-825d-4263-a656-38e4d7e3d016_Photo_3_large.jpg",
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "/resources/fileassets/US-SMPL-65846/bf01354a/dacba095-039d-4128-bfd3-8f4c5088ce5c.pdf"
+  ],
+  "attachments": [],
+  "imagesSource": "www.cbre.com",
+  "brokerWebsite": "https://www.cbre.com/properties/properties-for-lease/commercial-space/details/US-SMPL-65846/the-torrance-21250-hawthorne-boulevard-torrance-ca-90503",
+  "brokerLogo": null,
+  "highlights": [
+    "Premier Class A office building totaling 310,638 SF",
+    "New spec suites",
+    "Smaller flexible term spec suites",
+    "Certified LEED Gold by the U.S. Green Building Council for operating efficiency",
+    "Energy Star certified building",
+    "Steelhead Coffee onsite café and move fitness center",
+    "Inviting outdoor seating with complimentary Wi-Fi",
+    "Responsive onsite property management",
+    "Well-appointed 2-story lobby with glass entry",
+    "3.5/1000 parking in structure",
+    "Electric vehicle charging stations",
+    "24 hour on-site security",
+    "Conveniently situated 10 minutes from the 405",
+    "Adjacent to Del Amo Fashion Center",
+    "Surrounded by world-class amenities including 4-star hotels, award-winning restaurants, and upscale retailers and boutiques",
+    "Proximity to the most desirable residential neighborhoods in the South Bay of Los Angeles"
+  ],
+  "spaces": [
+    {
+      "size": 765,
+      "sizeUnits": "sqft"
+    },
+    {
+      "size": 4280,
+      "sizeUnits": "sqft"
+    },
+    {
+      "size": 3190,
+      "sizeUnits": "sqft"
+    },
+    {
+      "size": 1782,
+      "sizeUnits": "sqft"
+    },
+    {
+      "size": 1859,
+      "sizeUnits": "sqft"
+    },
+    {
+      "size": 4131,
+      "sizeUnits": "sqft"
+    },
+    {
+      "size": 4136,
+      "sizeUnits": "sqft"
+    },
+    {
+      "size": 13846,
+      "sizeUnits": "sqft"
+    },
+    {
+      "size": 1570,
+      "sizeUnits": "sqft"
+    }
+  ]
+}
