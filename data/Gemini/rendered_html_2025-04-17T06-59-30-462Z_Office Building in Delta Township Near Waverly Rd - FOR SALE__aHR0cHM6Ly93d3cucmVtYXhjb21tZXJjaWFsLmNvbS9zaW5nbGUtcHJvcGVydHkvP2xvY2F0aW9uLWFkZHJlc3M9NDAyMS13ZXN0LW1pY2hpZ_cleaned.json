@@ -48,8 +48,10 @@
   },
   "buildings": 1,
   "stories": null,
-  "buildingClass": "C",
-  "parkingSpaces": null,
+  "buildingClass": [
+    "C"
+  ],
+  "parkingSpaces": 30,
   "elevators": null,
   "forSale": {
     "price": 288300,
@@ -58,8 +60,8 @@
     "buildingSizeUnits": "SF",
     "netSize": null,
     "netSizeUnits": null,
-    "lotSize": null,
-    "lotSizeUnits": null,
+    "lotSize": 15395,
+    "lotSizeUnits": "SF",
     "airRightsSize": null,
     "airRightsSizeUnits": null,
     "units": null,
