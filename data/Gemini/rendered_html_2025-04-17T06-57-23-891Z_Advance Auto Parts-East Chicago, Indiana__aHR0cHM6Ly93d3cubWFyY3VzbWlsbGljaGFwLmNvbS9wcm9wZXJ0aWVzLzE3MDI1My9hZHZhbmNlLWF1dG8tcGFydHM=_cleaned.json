@@ -1,0 +1,165 @@
+{
+  "name": "Advance Auto Parts",
+  "description": "Marcus &amp; Millichap is pleased to present the opportunity to purchase the fee simple interest in an Advance Auto Property located in East Chicago, Indiana. With approximately 11 years of firm lease term remaining, the property is priced at a 7.4 percent CAP rate, an above market return for comparable properties with similarly limited landlord responsibilities. Operating on a corporate Advance Auto Parts lease, the tenant is paying a current rent of $91,467 annually, which equates to $13.39 per square foot, well below what comparable retailers are paying in rent. The rent is flat for the next 11 years of firm term, but it increases by 15.5% in the first option period.<br/><br/>Advance Auto recently signed a lease extension which pushes out their lease expiration until December 31, 2035. Available Placer data for this location reflects that this store is in the top tier of annual visits for Advance Auto Parts locations in the State of Indiana.<br/><br/>Standard &amp; Poor’s has maintained a credit rating of BB+ for Advance Auto Parts, even in the face of negative headlines about the company. It’s clear that AAP is doing what it can to keep its house in order, and despite headlines about store closures, the recent lease extension at this location came after the closure announcement, demonstrating with a high degree of certainty that this store is not on that closure list.<br/><br/>Built in 2015, the building is encumbered by a NN lease, limiting landlord responsibilities to the slab, structure, parking area and HVAC. Given the recent vintage of construction, the building is reportedly in good operating condition and current ownership has not needed to repair or replace any of these various capital systems.<br/><br/>This is an opportunity to purchase a stable, cash flowing investment, backed by corporate credit, with a long-term lease in place.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Auto Parts"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Indiana",
+        "code": "IN"
+      },
+      "county": null,
+      "city": "East Chicago",
+      "zipcode": "46312",
+      "street": "1200 W Chicago Ave",
+      "streetNumber": "1200",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": null,
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": 2015,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": 6831,
+    "propertySizeUnits": "sq ft",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": {
+    "price": 1236040,
+    "saleCondition": null,
+    "buildingSize": 6831,
+    "buildingSizeUnits": "sq ft",
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": 180.95,
+    "pricePerSqFtUnits": "sq ft",
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Nicholas Kanich",
+      "firstName": "Nicholas",
+      "lastName": "Kanich",
+      "description": "Senior Vice President Investments",
+      "company": null,
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(312) 327-5422"
+      ],
+      "email": "nicholas.kanich@marcusmillichap.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "IL: 475.147401"
+    },
+    {
+      "fullName": "Jack Skidmore",
+      "firstName": "Jack",
+      "lastName": "Skidmore",
+      "description": "Associate",
+      "company": null,
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(312) 624-7005"
+      ],
+      "email": "jack.skidmore@marcusmillichap.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "IL: 475.212875"
+    },
+    {
+      "fullName": "Mitchell Kiven",
+      "firstName": "Mitchell",
+      "lastName": "Kiven",
+      "description": "First Vice President Investments",
+      "company": null,
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(312) 624-7006"
+      ],
+      "email": "mitchell.kiven@marcusmillichap.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "IL: 475.164486"
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "https://mmimageservice.azurewebsites.net/api/image/property/212b7004-d783-454e-a226-7f9f0d8c50a9/L",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://mmimageservice.azurewebsites.net/api/image/property/9a4c2405-05e2-4342-a0b0-1d3c77cbf7a1/L",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://mmimageservice.azurewebsites.net/api/image/property/dce23bea-4fd4-4e7d-af0e-bd109152c090/L",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://mmimageservice.azurewebsites.net/api/image/property/4393c3e0-71c3-4568-a9b5-07af9e93321f/L",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://mmimageservice.azurewebsites.net/api/image/property/0b45d17c-3888-4f3c-a4ab-cd8abf8370ea/L",
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [
+    "https://www.marcusmillichap.com/properties/170253/deal-room/6d0d7e773413cbdc"
+  ],
+  "imagesSource": "mmimageservice.azurewebsites.net",
+  "brokerWebsite": "https://www.marcusmillichap.com/properties/170253/advance-auto-parts",
+  "brokerLogo": null,
+  "highlights": [
+    "11YR Advance Auto Parts Located in Northwest Indiana, Within the Chicago MSA",
+    "Despite headlines about Advance Auto Parts closing stores, the tenant affirmatively extended their lease an additional 5 years at the beginning of 2025 — signaling their commitment to the location",
+    "Ranked in the Top 20 Percent of Advance Auto Stores in the State of Indiana, per Placer.ai",
+    "Priced at a 7.4 Percent CAP Rate — an Above-Market Return for Comparable Properties With Similarly Limited Landlord Responsibilities",
+    "Advance Auto Parts Maintains a \"BB+\" Credit Rating From Standard &amp; Poor's",
+    "15.5 Percent Rent Increase in the First Renewal Option",
+    "Built in 2015; the Tenant Is Currently Paying Only $13.39/SF in Base Rent, a Rent That Is Both Replaceable and Likely Below Market",
+    "Offered for Purchase at $191 per Squar e Foot — Below Current Replacement Cost"
+  ],
+  "spaces": []
+}
