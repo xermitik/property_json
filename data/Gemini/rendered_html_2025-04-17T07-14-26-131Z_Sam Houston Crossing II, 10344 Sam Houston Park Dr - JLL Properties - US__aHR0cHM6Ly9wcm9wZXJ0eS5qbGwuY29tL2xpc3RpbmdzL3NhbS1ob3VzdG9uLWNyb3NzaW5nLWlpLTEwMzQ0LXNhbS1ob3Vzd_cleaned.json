@@ -1,0 +1,141 @@
+{
+  "name": "Sam Houston Crossing II",
+  "description": "Now available for sublease, office Sam Houston Crossing II located at 10344 Sam Houston Park Dr Houston, Texas 77064.\nAvailable square footage 26,773 SF.\nPlease contact us for further information.",
+  "shortDescription": null,
+  "status": null,
+  "activityStatus": true,
+  "propertyTypes": [
+    "Office"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Texas",
+        "code": "TX"
+      },
+      "county": null,
+      "city": "Houston",
+      "zipcode": "77064",
+      "street": "10344 Sam Houston Park Dr",
+      "streetNumber": "10344",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": null,
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": 26773,
+    "propertySizeUnits": "SF",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 29.916592,
+      "longitude": -95.554498
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": null,
+  "forLease": {
+    "rentableSquareFeet": 26773,
+    "rentableSquareFeetUnits": "SF",
+    "usableSquareFeet": null,
+    "usableSquareFeetUnits": null,
+    "rate": null,
+    "rateAreaUnits": null,
+    "totalRate": null,
+    "leaseType": [
+      "Lease",
+      "Sublease"
+    ],
+    "leaseTerm": null,
+    "taxesPerSquareFoot": null,
+    "taxesPerAreaUnits": null,
+    "rateType": null
+  },
+  "contacts": [
+    {
+      "fullName": "Jeff Cairns",
+      "firstName": "Jeff",
+      "lastName": "Cairns",
+      "description": "Executive Vice President",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733684992/broker_profile_management_PROD/zzp0vcw4maft0jepfz9z.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    },
+    {
+      "fullName": "Mark Reilly",
+      "firstName": "Mark",
+      "lastName": "Reilly",
+      "description": "Vice President",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733685037/broker_profile_management_PROD/l5uwvlezrbrjzdgrqsk3.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    },
+    {
+      "fullName": "Reed Lindner",
+      "firstName": "Reed",
+      "lastName": "Lindner",
+      "description": "Associate, Office Tenant Representation",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733677762/broker_profile_management_PROD/kzj3xmoikisvwvnstpxr.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "https://res.cloudinary.com/marketsphere/image/upload/f_avif,dpr_auto,w_3840,q_auto/t_main_us/w03ph4iqbxt6chu6k5gx.jpg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://res.cloudinary.com/marketsphere/image/upload/f_avif,dpr_auto,w_3840,q_auto/t_main_us/wkm5ws7bjgjr4bphiyu1.jpg",
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [
+    "https://jll.box.com/s/n6m4v62qviyyrkcoicrkk1deiy78iryp"
+  ],
+  "imagesSource": "property.jll.com",
+  "brokerWebsite": "https://property.jll.com/listings/sam-houston-crossing-ii-10344-sam-houston-park-dr-west-belt",
+  "brokerLogo": "https://res.cloudinary.com/jll-global-olm/image/upload/v1637142411/assets/exchange/logo-noreg-highres-180.png",
+  "highlights": [],
+  "spaces": [
+    {
+      "size": 26773,
+      "sizeUnits": "SF"
+    }
+  ]
+}
