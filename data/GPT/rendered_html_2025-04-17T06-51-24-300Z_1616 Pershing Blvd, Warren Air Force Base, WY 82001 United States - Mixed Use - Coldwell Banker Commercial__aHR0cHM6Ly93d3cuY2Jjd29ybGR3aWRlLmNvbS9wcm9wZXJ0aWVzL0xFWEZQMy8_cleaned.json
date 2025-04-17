@@ -23,7 +23,7 @@
       "cbsaCode": null,
       "cbsaName": null
     },
-    "areaDescription": "Strategically located on Pershing Blvd next to the brand-new Derby Club in a thriving commercial corridor.",
+    "areaDescription": "Located on Pershing Blvd next to the brand-new Derby Club in a thriving commercial corridor with high visibility and strong foot traffic.",
     "zoneCode": null,
     "apu": null,
     "apn": null,
@@ -42,7 +42,8 @@
     },
     "numParkingSpaces": null,
     "ParkingText": null,
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://www.cbcworldwide.com/properties/LEXFP3/"
   },
   "buildings": null,
   "stories": null,
