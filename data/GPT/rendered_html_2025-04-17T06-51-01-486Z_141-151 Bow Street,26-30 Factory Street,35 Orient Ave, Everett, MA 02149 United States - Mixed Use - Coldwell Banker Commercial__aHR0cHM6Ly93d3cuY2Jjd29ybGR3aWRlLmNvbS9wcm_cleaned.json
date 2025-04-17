@@ -1,0 +1,121 @@
+{
+  "name": "141-151 Bow St,26-30 Factory St,35 Orient Ave Everett",
+  "description": "4.16 Acre Site consisting of 3 separate parcels with existing building structures.Located in lower Broadway abutting the former Exxon parcel.\n\n Close Proxity to Encore Casino, Assembly Row, Wellington & Sullivan T Station and Downtown Boston. Serious inquiries only with proof of funds. Buyer's agent and buyers are responsible for their due diligence.\n\n Please contact listing agent for more details on the property. For information on the financials of the properties an NDA disclosure form must be signed.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "mixed-use"
+  ],
+  "dateAdded": 1634515200,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Massachusetts",
+        "code": "MA"
+      },
+      "county": null,
+      "city": "Everett",
+      "zipcode": "02149",
+      "street": "141-151 Bow Street,26-30 Factory Street,35 Orient Ave",
+      "streetNumber": null,
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": "Located in lower Broadway abutting the former Exxon parcel. Close Proxity to Encore Casino, Assembly Row, Wellington & Sullivan T Station and Downtown Boston.",
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": 4.16,
+    "lotSizeUnits": "acres",
+    "propertySize": null,
+    "propertySizeUnits": null,
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 42.398385,
+      "longitude": -71.061159
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": "N/A",
+  "forSale": {
+    "price": 28000000,
+    "saleCondition": null,
+    "buildingSize": null,
+    "buildingSizeUnits": null,
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": 4.16,
+    "lotSizeUnits": "acres",
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": null,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Emma Fula",
+      "firstName": "Emma",
+      "lastName": "Fula",
+      "description": null,
+      "company": "Coldwell Banker Commercial Realty",
+      "photo": "https://cbcimg.b-cdn.net/p256x256/user/XbtrHFFmT/photo/e5kbDIjd/46224D26-B449-4682-BDBA-F76C7D176BCD.jpeg",
+      "address": "399 Boylston St Ste 200, \n Boston, MA \n 02116",
+      "officeAddress": null,
+      "phones": [
+        "781-589-2092"
+      ],
+      "email": "emma.fula@nemoves.com",
+      "website": "http://www.emmafulacoldwellbanker.com/",
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/HTJbExL/8910D968-FDD5-4C8E-A6B3-436A4D82216C.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/uCjsQmBX0/AE317950-A6E0-4979-B99C-FCC2B66E4A84.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/Kx9BtlvvB/BDC04963-AED3-45AA-828B-11BBA2D580EB.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/wqMggid/F1FCCF8F-2682-4B10-B6A3-E342560A9C12.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/FYmRZXsR/193E9BFC-CB31-4D06-B9AB-8576970A52B8.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/WsZjPW5r/81EA3CB0-6F2A-4EE5-BF76-FC85495085A7.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/iE1UDZM/63DE658B-D3BC-49B8-B534-5025194B6431.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/oGpdOAjr/22A8C0ED-B7A6-4E04-9A05-E4A199C68D27.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/YXMMKIh/C4DA111A-E8C2-4472-BF0F-02B7030DA1DA.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/WeZUz7yU/7E476B7B-A264-4DF7-BDB2-BC576583F32F.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/U74TIOh/A4ED2DDB-F4E8-4AF4-A333-C714A87AEA81.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/bUOBB9UUJ/FB8E24AE-5367-48FC-AC59-C4B7E5B61959.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/HiTX7rnwnG/CB437111-2E75-452A-BD49-60EED9121C77.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/GYFJLS/photo/q4y59hWs/F543B6F8-7EAB-4DF1-8B77-E47E8DDEB73D.jpeg"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "https://www.cbcworldwide.com/documents/vTEvXkkcU5"
+  ],
+  "attachments": [],
+  "imagesSource": "cbcworldwide.com",
+  "brokerWebsite": "https://www.cbcworldwide.com/properties/GYFJLS/141-151-bow-st-26-30-factory-st-35-orient-ave-everett",
+  "brokerLogo": "https://cbcimg.b-cdn.net/CBC_Logo.svg",
+  "highlights": [],
+  "spaces": []
+}
