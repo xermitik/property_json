@@ -1,11 +1,11 @@
 {
   "name": "Sam Houston Crossing II",
   "description": "Now available for sublease, office Sam Houston Crossing II located at 10344 Sam Houston Park Dr Houston, Texas 77064.\nAvailable square footage 26,773 SF.\nPlease contact us for further information.",
-  "shortDescription": null,
-  "status": null,
+  "shortDescription": "Now available for sublease, office Sam Houston Crossing II located at 10344 Sam Houston Park Dr Houston, Texas 77064.",
+  "status": "for-lease",
   "activityStatus": true,
   "propertyTypes": [
-    "Office"
+    "office-space"
   ],
   "dateAdded": null,
   "propertyInfo": {
@@ -32,7 +32,7 @@
     "lotSize": null,
     "lotSizeUnits": null,
     "propertySize": 26773,
-    "propertySizeUnits": "SF",
+    "propertySizeUnits": "sq ft",
     "propertySizeText": null,
     "layoutText": null,
     "construction": null,
@@ -59,7 +59,6 @@
     "rateAreaUnits": null,
     "totalRate": null,
     "leaseType": [
-      "Lease",
       "Sublease"
     ],
     "leaseTerm": null,
@@ -72,12 +71,14 @@
       "fullName": "Jeff Cairns",
       "firstName": "Jeff",
       "lastName": "Cairns",
-      "description": "Executive Vice President",
-      "company": "JLL",
+      "description": null,
+      "company": null,
       "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733684992/broker_profile_management_PROD/zzp0vcw4maft0jepfz9z.jpg",
       "address": null,
       "officeAddress": null,
-      "phones": [],
+      "phones": [
+        "+1-512-695-5563"
+      ],
       "email": null,
       "website": null,
       "linkedin": null,
@@ -87,12 +88,14 @@
       "fullName": "Mark Reilly",
       "firstName": "Mark",
       "lastName": "Reilly",
-      "description": "Vice President",
-      "company": "JLL",
+      "description": null,
+      "company": null,
       "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733685037/broker_profile_management_PROD/l5uwvlezrbrjzdgrqsk3.jpg",
       "address": null,
       "officeAddress": null,
-      "phones": [],
+      "phones": [
+        "+1-281-236-1124"
+      ],
       "email": null,
       "website": null,
       "linkedin": null,
@@ -102,12 +105,14 @@
       "fullName": "Reed Lindner",
       "firstName": "Reed",
       "lastName": "Lindner",
-      "description": "Associate, Office Tenant Representation",
-      "company": "JLL",
+      "description": null,
+      "company": null,
       "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733677762/broker_profile_management_PROD/kzj3xmoikisvwvnstpxr.jpg",
       "address": null,
       "officeAddress": null,
-      "phones": [],
+      "phones": [
+        "+1 713 830 6661"
+      ],
       "email": null,
       "website": null,
       "linkedin": null,
