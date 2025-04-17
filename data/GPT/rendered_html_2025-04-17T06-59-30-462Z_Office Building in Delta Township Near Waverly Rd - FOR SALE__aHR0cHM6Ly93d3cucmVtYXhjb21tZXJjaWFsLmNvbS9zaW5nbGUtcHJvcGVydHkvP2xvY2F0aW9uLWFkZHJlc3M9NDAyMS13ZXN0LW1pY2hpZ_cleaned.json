@@ -1,0 +1,132 @@
+{
+  "name": "Office Building In Delta Township Near Waverly Rd",
+  "description": "For sale: a prime commercial opportunity at 4021 W Michigan Ave, Lansing, MI 48917, nestled in the heart of Delta Township. This impressive two-story office building boasts 5,766 square feet of versatile space, situated on a generous 0.368-acre lot. Perfectly positioned on bustling Michigan Avenue, just west of Waverly Rd and north of I-496, this property offers excellent visibility and accessibility. Featuring a spacious front parking lot with two driveway access points and dual entrances, the building is thoughtfully designed for convenience and flexibility—easily divisible into separate suites. With six bathrooms on the first floor and two on the second, it’s well-equipped for multiple tenants or a single thriving business. Surrounded by a variety of fast food and sit-down dining options, and just a short drive west of Downtown Lansing and the State Capitol, this location blends suburban charm with urban proximity. Don’t miss your chance to own this standout commercial property in a vibrant, growing area.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Flex Space",
+    "Office",
+    "Office Building"
+  ],
+  "dateAdded": 1710161210,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Michigan",
+        "code": "MI"
+      },
+      "county": "Eaton County",
+      "city": "Lansing",
+      "zipcode": "48917",
+      "street": "West Michigan Avenue",
+      "streetNumber": "4021",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": "Located in the heart of Delta Township in the greater Lansing area. Right on Michigan Avenue, just west of Waverly Road and north of I-496. It's just a short drive west of downtown Lansing and the state capitol.",
+    "zoneCode": "Commercial",
+    "apu": null,
+    "apn": "040-043-601-531-00",
+    "yearBuilt": 1970,
+    "yearRenovated": null,
+    "lotSize": 15395,
+    "lotSizeUnits": "SF",
+    "propertySize": 5766,
+    "propertySizeUnits": "SF",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 42.7334909,
+      "longitude": -84.604961
+    },
+    "numParkingSpaces": 30,
+    "ParkingText": "Spacious front parking lot with two driveway access points",
+    "propertyUse": "Office or Flex R & D"
+  },
+  "buildings": 1,
+  "stories": 2,
+  "buildingClass": [
+    "C"
+  ],
+  "parkingSpaces": 30,
+  "elevators": "N/A",
+  "forSale": {
+    "price": 288300,
+    "saleCondition": null,
+    "buildingSize": 5766,
+    "buildingSizeUnits": "SF",
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": 15395,
+    "lotSizeUnits": "SF",
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": null,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Matthew Wisniewski",
+      "firstName": "Matthew",
+      "lastName": "Wisniewski",
+      "description": null,
+      "company": "RE/MAX Commercial",
+      "photo": "https://s3.amazonaws.com/realnex.production/Avatars/542/MainPhoto_cropped.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(517) 321-2800"
+      ],
+      "email": "matthew.wisniewski@remax.net",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072439/16368848.jpg",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072439/16368849.jpg",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072439/16368850.jpg",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072439/16368851.jpg",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072439/16368852.jpg",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072439/16368853.jpg",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072439/16368854.jpg",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072439/16368855.png",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072439/16368856.jpg",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072439/16368857.jpg",
+        "https://s3.amazonaws.com/realnex.production/ListingAttachment/4072439/16368865.png"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [],
+  "imagesSource": "realnex.com",
+  "brokerWebsite": "https://www.remaxcommercial.com/single-property/?location-address=4021-west-michigan-avenue-lansing-mi-48917&type=for-sale&prop-id=4072439",
+  "brokerLogo": "https://www.remaxcommercial.com/wp-content/uploads/sites/4/2024/04/remax-logo.png",
+  "highlights": [
+    "High visibility and accessibility.",
+    "Close to downtown Lansing.",
+    "Dual access entrances.",
+    "Easily divisible into suites.",
+    "Well equipped for multiple tenants with several restrooms on each floor.",
+    "Surrounded by a variety of dining spots and local businesses."
+  ],
+  "spaces": [
+    {
+      "size": 5766,
+      "sizeUnits": "sq ft"
+    }
+  ]
+}
