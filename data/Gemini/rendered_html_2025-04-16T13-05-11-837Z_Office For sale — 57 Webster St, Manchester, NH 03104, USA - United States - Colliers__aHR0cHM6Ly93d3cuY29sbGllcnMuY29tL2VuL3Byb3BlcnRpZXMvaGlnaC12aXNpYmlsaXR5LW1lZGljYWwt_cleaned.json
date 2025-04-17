@@ -1,0 +1,115 @@
+{
+  "name": "High Visibility Medical Condos",
+  "description": "Three medical office condominiums, totaling 11,481± SF, located in Manchester’s North End. Owner prefers to sell as a package. Unit 116 is 8,834± SF, Unit 202 is 1,323± SF, and Unit 204 is 1,324± SF; utilities are separately metered. Ample parking on-site and convenient highway access. Potential opportunity to convert a portion of the space to residential.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Office",
+    "Healthcare"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "New Hampshire",
+        "code": "NH"
+      },
+      "county": null,
+      "city": "Manchester",
+      "zipcode": "03104",
+      "street": "57 Webster St",
+      "streetNumber": "57",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "zoneCode": "B1/R2-PO",
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": 11481,
+    "propertySizeUnits": "SF",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 43.0063733,
+      "longitude": -71.46231
+    },
+    "numParkingSpaces": null,
+    "ParkingText": "Ample on-site",
+    "propertyUse": "Medical Office Condo"
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": {
+    "price": 1500000,
+    "saleCondition": null,
+    "buildingSize": 11481,
+    "buildingSizeUnits": "SF",
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": null,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Daniel Scanlon",
+      "firstName": "Daniel",
+      "lastName": "Scanlon",
+      "description": "Senior Associate",
+      "company": "Colliers",
+      "photo": "https://colliersapps.blob.core.windows.net/people/00a2bd53-7bc6-477d-940f-c6ff572d10ef-170-170.png",
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "+1 603 206 9605",
+        "+1 603 860 1806"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/0bfa50c3-af96-4e36-8a73-df0d85d65dd2/669cc2ff-0462-498d-8895-1b370967a0af-w",
+      "isFake": null
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/0bfa50c3-af96-4e36-8a73-df0d85d65dd2/051b5113-a720-457d-b93b-85b2916a42a7-w",
+      "isFake": null
+    },
+    {
+      "fullUrl": "https://listingsprod.blob.core.windows.net/ourlistings-usa/0bfa50c3-af96-4e36-8a73-df0d85d65dd2/92f613c7-d6f3-488e-8a75-4c78bfb97766-w",
+      "isFake": null
+    }
+  ],
+  "flyers": [],
+  "attachments": [
+    "https://listingsprod.blob.core.windows.net/ourlistings-usa/0bfa50c3-af96-4e36-8a73-df0d85d65dd2/3c7b3f9a-5778-4145-bddb-512b46bfe531"
+  ],
+  "imagesSource": "colliers.com",
+  "brokerWebsite": "https://www.colliers.com/en/properties/high-visibility-medical-condos/usa-57-webster-st-manchester-nh-03104-usa/usa1149931",
+  "brokerLogo": "/-/media/images/colliers/unitedstates/national/footer/logofooter.ashx?bid=19443a8c23424c689d86c4d1320eac0f",
+  "highlights": [],
+  "spaces": []
+}
