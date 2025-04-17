@@ -1,0 +1,144 @@
+{
+  "name": "2820 Cargo Str",
+  "description": "CURRENT TENANT: CenturyLink Florida, Inc.\nLEASE TERM: February 29, 2028 w/ (2) 5-year renewal options\nNOI: $262,500 \nCAP RATE: 4% (NNN Lease)\nLocated between Old Metro Pkwy. and Veronica Shoemaker Pkwy. on the NW corner of Cargo Str. and Work Dr. Fenced Lot.\nProperty Type: 60,100± SF of building on 10.55± acres. Multi-building (3), large-scale industrial/office with surface storage yard.\nZoned: IH – Heavy Industrial \nYear Built: 1973 | Renovated: 1980 \nParking: 300 Free Surface Spaces | Ratio: 4.71/1,000 SF\nDocks: 4 Ext\nDrive Ins: 6 Total / 10’ W x 16’ H \nBathrooms: 3 Total",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Warehouse"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Florida",
+        "code": null
+      },
+      "county": "Lee County",
+      "city": "Fort Myers",
+      "zipcode": "33916",
+      "street": "2820 Cargo Street",
+      "streetNumber": "2820",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": null,
+    "zoneCode": "IH",
+    "apu": null,
+    "apn": "304425P20040A0030",
+    "yearBuilt": 1973,
+    "yearRenovated": 1980,
+    "lotSize": 10.55,
+    "lotSizeUnits": "Ac",
+    "propertySize": 60100,
+    "propertySizeUnits": "SF",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 26.6207646,
+      "longitude": -81.8451511
+    },
+    "numParkingSpaces": 300,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": 3,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": {
+    "price": 6500000,
+    "saleCondition": null,
+    "buildingSize": 60100,
+    "buildingSizeUnits": null,
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": 10.55,
+    "lotSizeUnits": null,
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": 100,
+    "pricePerSqFt": null,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": 262500
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Michael Frye, CCIM|CEO",
+      "firstName": "Michael",
+      "lastName": "Frye",
+      "description": null,
+      "company": null,
+      "photo": "https://s3.amazonaws.com/realnex.production/Avatars/211094/MainPhoto_cropped.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": "mfrye@remax.net",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4072438/16368811.png?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4072438/16368812.png?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4072438/16368814.png?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4072438/16368815.png?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4072438/16368816.png?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4072438/16368817.png?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4072438/16368818.png?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4072438/16368819.png?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4072438/16368820.jpg?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4072438/16368821.png?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://s3.amazonaws.com/realnex.production/ListingAttachment/4072438/16368823.png?h=500&mode=max&404=default&autorotate=true",
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "https://s3.amazonaws.com/realnex.production/ListingAttachment/4072438/16368822.pdf"
+  ],
+  "attachments": [],
+  "imagesSource": "realnex.com",
+  "brokerWebsite": "https://www.remaxcommercial.com/single-property/?location-address=2820-cargo-street-fort-myers-fl-33916&type=for-sale&prop-id=4072438",
+  "brokerLogo": "https://www.remaxcommercial.com/wp-content/uploads/sites/4/2024/03/Logo.png?w=280",
+  "highlights": [],
+  "spaces": []
+}
