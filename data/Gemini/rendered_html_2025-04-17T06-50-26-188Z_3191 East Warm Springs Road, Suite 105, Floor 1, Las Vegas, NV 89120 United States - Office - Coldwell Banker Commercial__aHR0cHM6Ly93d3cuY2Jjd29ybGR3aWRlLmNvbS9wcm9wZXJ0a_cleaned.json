@@ -7,7 +7,7 @@
   "propertyTypes": [
     "Office"
   ],
-  "dateAdded": 1634553600,
+  "dateAdded": 1634544000,
   "propertyInfo": {
     "address": {
       "state": {
@@ -17,7 +17,7 @@
       "county": null,
       "city": "Las Vegas",
       "zipcode": "89120",
-      "street": "3191 East Warm Springs Road",
+      "street": "3191 East Warm Springs Road, Suite 105, Floor 1",
       "streetNumber": "3191",
       "unit": "Suite 105, Floor 1",
       "cbsaCode": null,
@@ -73,7 +73,7 @@
       "company": "Coldwell Banker Commercial Premier",
       "photo": "https://cbcimg.b-cdn.net/p256x256/user/75Ra6RvI/photo/LWxEQWJ/profile-photo.jpg",
       "address": null,
-      "officeAddress": "Las Vegas, NV",
+      "officeAddress": null,
       "phones": [
         "702-701-9700"
       ],
@@ -123,5 +123,5 @@
   "brokerWebsite": "https://www.cbcworldwide.com/properties/ERHXLV/3191-east-warm-springs-road-suite-105-floor-1",
   "brokerLogo": "https://cbcimg.b-cdn.net/cbc_logo_round.png",
   "highlights": [],
-  "spaces": []
+  "spaces": null
 }
