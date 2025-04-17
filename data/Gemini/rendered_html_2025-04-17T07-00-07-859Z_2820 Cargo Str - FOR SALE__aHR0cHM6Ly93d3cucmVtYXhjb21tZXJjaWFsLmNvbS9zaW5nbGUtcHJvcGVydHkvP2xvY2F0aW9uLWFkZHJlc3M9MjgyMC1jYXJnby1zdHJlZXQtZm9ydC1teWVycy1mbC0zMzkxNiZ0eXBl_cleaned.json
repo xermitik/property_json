@@ -1,6 +1,6 @@
 {
   "name": "2820 Cargo Str",
-  "description": "CURRENT TENANT: CenturyLink Florida, Inc.\nLEASE TERM: February 29, 2028 w/ (2) 5-year renewal options\nNOI: $262,500 \nCAP RATE: 4% (NNN Lease)\nLocated between Old Metro Pkwy. and Veronica Shoemaker Pkwy. on the NW corner of Cargo Str. and Work Dr. Fenced Lot.\nProperty Type: 60,100± SF of building on 10.55± acres. Multi-building (3), large-scale industrial/office with surface storage yard.\nZoned: IH – Heavy Industrial \nYear Built: 1973 | Renovated: 1980 \nParking: 300 Free Surface Spaces | Ratio: 4.71/1,000 SF\nDocks: 4 Ext\nDrive Ins: 6 Total / 10’ W x 16’ H \nBathrooms: 3 Total",
+  "description": "CURRENT TENANT: CenturyLink Florida, Inc.\nLEASE TERM: February 29, 2028 w/ (2) 5-year renewal options\nNOI: $262,500\nCAP RATE: 4% (NNN Lease)\nLocated between Old Metro Pkwy. and Veronica Shoemaker Pkwy. on the NW corner of Cargo Str. and Work Dr. Fenced Lot.\nProperty Type: 60,100± SF of building on 10.55± acres. Multi-building (3), large-scale industrial/office with surface storage yard.\nZoned: IH – Heavy Industrial\nYear Built: 1973 | Renovated: 1980\nParking: 300 Free Surface Spaces | Ratio: 4.71/1,000 SF\nDocks: 4 Ext\nDrive Ins: 6 Total / 10’ W x 16’ H\nBathrooms: 3 Total",
   "shortDescription": null,
   "status": "for-sale",
   "activityStatus": true,
@@ -12,7 +12,7 @@
     "address": {
       "state": {
         "name": "Florida",
-        "code": null
+        "code": "FL"
       },
       "county": "Lee County",
       "city": "Fort Myers",
@@ -42,7 +42,8 @@
     },
     "numParkingSpaces": 300,
     "ParkingText": null,
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://www.remaxcommercial.com/single-property/?location-address=2820-cargo-street-fort-myers-fl-33916&type"
   },
   "buildings": 3,
   "stories": null,
@@ -53,11 +54,11 @@
     "price": 6500000,
     "saleCondition": null,
     "buildingSize": 60100,
-    "buildingSizeUnits": null,
+    "buildingSizeUnits": "SF",
     "netSize": null,
     "netSizeUnits": null,
     "lotSize": 10.55,
-    "lotSizeUnits": null,
+    "lotSizeUnits": "acres",
     "airRightsSize": null,
     "airRightsSizeUnits": null,
     "units": null,
