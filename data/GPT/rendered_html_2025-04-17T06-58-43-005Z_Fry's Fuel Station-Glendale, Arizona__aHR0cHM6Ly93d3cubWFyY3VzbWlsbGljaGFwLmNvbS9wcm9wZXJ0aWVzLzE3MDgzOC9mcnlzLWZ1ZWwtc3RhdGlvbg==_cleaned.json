@@ -1,0 +1,119 @@
+{
+  "name": "Fry's Fuel Station",
+  "description": "Fry's Food Stores have been dominating the grocery market in the Phoenix metro area. In 2023, Fry's achieved nearly $5.6 billion in sales, capturing a 28.32% market share. This makes Fry's the top grocery retailer in the region, significantly ahead of its closest competitor, Walmart, which holds a 17.83% market share. Fry's continues to expand its presence, with 93 locations in Maricopa and Pinal counties. The chain's strong performance is attributed to its wide range of products and competitive pricing, which resonate well with local consumers. Overall, Fry's fuel centers provide a combination of savings, convenience, and flexibility, making them a valuable resource for consumers.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "auto-service",
+    "gas-conv"
+  ],
+  "dateAdded": 638804698892911276,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Arizona",
+        "code": "AZ"
+      },
+      "county": null,
+      "city": "Glendale",
+      "zipcode": "85303",
+      "street": "SWC 67th Avenue & Montebello Avenue",
+      "streetNumber": null,
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": null,
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": 60112,
+    "propertySizeUnits": "sq ft",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 33.520207,
+      "longitude": -112.2030573
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": "N/A",
+  "forSale": {
+    "price": 3222222,
+    "saleCondition": null,
+    "buildingSize": 60112,
+    "buildingSizeUnits": "sq ft",
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": 53.58,
+    "pricePerSqFtUnits": "sq ft",
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Paul A. Bitonti",
+      "firstName": "Paul",
+      "lastName": "Bitonti",
+      "description": "Senior Vice President Investments",
+      "company": "Marcus & Millichap",
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(949) 419-3200"
+      ],
+      "email": "paul.bitonti@marcusmillichap.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "CA: 01325076"
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://mmimageservice.azurewebsites.net/api/image/property/2f138b65-6737-41c5-bbfb-8a5a8cffc332/L",
+        "https://mmimageservice.azurewebsites.net/api/image/property/505eb6a4-a0a7-4533-9ca6-65a2a86c0980/L"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "https://www.marcusmillichap.com/properties/170838/deal-room/4a583374c12e18db"
+  ],
+  "attachments": [],
+  "imagesSource": "marcusmillichap.com",
+  "brokerWebsite": "https://www.marcusmillichap.com/properties/170838/frys-fuel-station",
+  "brokerLogo": "https://www.marcusmillichap.com/-/media/Images/MM/MM_logo2018_white.svg",
+  "highlights": [
+    "Absolute Net Ground Lease",
+    "Lease Term - 15-Year with Eight 5-Year Options",
+    "Fry's Off-Site Fuel Center with Kiosk"
+  ],
+  "spaces": [
+    {
+      "size": 60112,
+      "sizeUnits": "sq ft"
+    }
+  ]
+}
