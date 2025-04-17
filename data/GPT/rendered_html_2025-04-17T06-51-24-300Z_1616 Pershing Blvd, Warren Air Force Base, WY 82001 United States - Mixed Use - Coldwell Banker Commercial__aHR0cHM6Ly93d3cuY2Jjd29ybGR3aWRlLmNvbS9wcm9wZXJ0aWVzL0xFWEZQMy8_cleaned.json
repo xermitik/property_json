@@ -1,0 +1,147 @@
+{
+  "name": "1616 Pershing Blvd",
+  "description": "1616 Pershing is a prime multi-tenant investment with high visibility and strong foot traffic, strategically located on Pershing Blvd next to the brand-new Derby Club. Offered at an 8% CAP rate, this property delivers steady income and investment upside in a thriving commercial corridor. Anchored by Gold's Gym, and complemented by a diverse tenant mix that includes The Office Bar & Grill, Cheyenne Regional Medical Center, HUB Insurance, and WYoMovies.com, this property benefits from long-term stability and high demand. Situated on a 7-acre parcel, the site offers ample parking, enhancing convenience for both customers and employees. The mix of NNN and gross leases ensures minimal landlord responsibility while providing predictable cash flow. With a well-balanced blend of retail, office, dining, and entertainment tenants, this property reduces risk exposure and offers a diverse income stream. Whether you're looking for stable long-term income or an asset with strong future upside, this investment presents an outstanding opportunity in a thriving commercial corridor.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "mixed-use"
+  ],
+  "dateAdded": 1634515200,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Wyoming",
+        "code": "WY"
+      },
+      "county": null,
+      "city": "Warren Air Force Base",
+      "zipcode": "82001",
+      "street": "Pershing Blvd",
+      "streetNumber": "1616",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": "Strategically located on Pershing Blvd next to the brand-new Derby Club in a thriving commercial corridor.",
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": 1963,
+    "yearRenovated": null,
+    "lotSize": 7.04,
+    "lotSizeUnits": "acres",
+    "propertySize": 109744,
+    "propertySizeUnits": "sqft",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 41.147056,
+      "longitude": -104.801506
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": "N/A",
+  "forSale": {
+    "price": 19250000,
+    "saleCondition": null,
+    "buildingSize": 109744,
+    "buildingSizeUnits": "sqft",
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": 7.04,
+    "lotSizeUnits": "acres",
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": null,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Hugh R Graham Graham",
+      "firstName": "Hugh",
+      "lastName": "Graham Graham",
+      "description": null,
+      "company": "Coldwell Banker Commercial The Property Exchange",
+      "photo": "https://cbcimg.b-cdn.net/p256x256/user/nFKy9LM/photo/wPuUGociNj/8000BC62-19F4-4B8B-A3BE-D2A1B93A00DD.jpeg",
+      "address": "255 Storey Blvd., \nCheyenne, WY \n82009",
+      "officeAddress": null,
+      "phones": [],
+      "email": "hrgraham@propertyex.com",
+      "website": "http://wyomingcommercialbrokers.com/",
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/NN92GAa/3EB006F4-57A8-471D-838B-CB3622C4FFA8.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/ZuLxKNnb/CE22D2C2-9CE8-4A86-916E-4FD6FB8AE4F3.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/zPn6jZN/4D5A346A-DC76-4ACD-BF93-31132763DEFD.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/kk6psaWmR/F3CEC544-D69B-40E0-8B03-A4E90E7B6CA3.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/KyGMtw16f/6E9912E2-7F41-4030-8090-49F8D44A09A7.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/0VP7LVzt/2A76F210-9A8A-4A38-BFD5-F58857E2757A.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/iLWJ7KlQC5/12CA7FA0-C72E-4C02-87F2-98D1BA5AC9C7.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/NOfFgeeNtz/9DBAA565-4CBA-4241-8E0C-32AF7A078047.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/l8QpW96I/F7C1D5C1-2FDD-4A3F-A0F3-845BF7358F88.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/pKiOs53/3ED3EF03-0B79-46CB-BC38-BCA6B1D213AF.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/usvaOLQG/0F5FFCC0-1E09-48A6-A9D8-009A78489E5A.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/ucFgNM8w/AE9CC873-5469-4730-B7FD-D1269A384AE5.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/9pkEZkd/33092B7C-1D4C-4C06-AAEC-C6DAB763023C.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/kX0OYoScT4/D3F3ACA0-B3FA-4595-9193-F42D77569F14.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/CQUBw4llzz/068DAF8B-32CE-4FBF-9574-6F2C6E655B78.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/uruFGjeYy/7B91C853-142A-45D7-85A3-A7F34AE9EE0B.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/nbut8qT3Ev/463E74F5-08E6-41DE-8F14-9F3F9B0044C3.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/QFDRvGF/971AA026-71DD-4A68-B62B-B8A4E591FD45.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/YlB3ox9Q/D0F081E4-BD9F-490F-BA20-F9291F7836AF.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/8AHrs9O2/B37F6A14-7EE8-4878-A516-A97CE559472C.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/QcygBjT/BA1AF221-D27D-45E4-A2D1-8FECD0D07595.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/zxZj1Fg/FB4432A5-5A0E-42BF-B478-274643567CF6.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/fPLvsVEJn/8604E136-D7C8-4E75-9444-64CE74C2A18C.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/GlNU8hBsOd/29A8EB04-CBC4-48D8-9446-98EC07FD40B6.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/0i430R38/390AC72C-0E4F-46F7-8D38-BA501366EB24.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/N2A3FA9/7A228F55-549D-4489-8050-0E197CF7B61B.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/r9BzSbBj/3E3F2700-8E01-451F-AA37-F1884A2005F4.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/RZOrrTS/4433F090-AE3F-471B-941E-A936A4B9A8D6.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/zBZ7KhL/D05A7439-6628-499F-90B4-74B4AC340968.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/2DdyAEL/9DEA463A-8992-40CE-865A-E0DC5AEF0BDC.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/84hiXrnAt/26DA9FE4-5A33-47F2-94F3-DCCF690AF9C8.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/3JKigCpsFH/1095AA31-B7C3-4403-A21F-B7B38408F073.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/msaGSqP/B4FA32ED-917F-4AB4-A033-71B76BD9A633.jpeg",
+        "https://cbcimg.b-cdn.net/p1920x0/product/LEXFP3/photo/L3diJpyKR/21623F6F-4386-4E5D-B4F7-52C7138C1CE1.jpeg"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [
+    "https://www.cbcworldwide.com/documents/2BHxmuUCYr"
+  ],
+  "imagesSource": "cbcworldwide.com",
+  "brokerWebsite": "https://www.cbcworldwide.com/properties/LEXFP3/1616-pershing-blvd",
+  "brokerLogo": "https://cbcimg.b-cdn.net/CBC_Logo.svg",
+  "highlights": [
+    "Annual Tax: $ 97821.2",
+    "Sewer: Aerobic System"
+  ],
+  "spaces": [
+    {
+      "size": 109744,
+      "sizeUnits": "sqft"
+    }
+  ]
+}
