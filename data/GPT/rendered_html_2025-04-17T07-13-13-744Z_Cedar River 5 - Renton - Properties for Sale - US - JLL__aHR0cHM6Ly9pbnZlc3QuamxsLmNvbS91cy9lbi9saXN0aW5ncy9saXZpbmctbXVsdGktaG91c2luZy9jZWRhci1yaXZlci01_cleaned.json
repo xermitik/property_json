@@ -7,7 +7,7 @@
   "propertyTypes": [
     "multifamily"
   ],
-  "dateAdded": 1713235200,
+  "dateAdded": 1713244800,
   "propertyInfo": {
     "address": {
       "state": {
@@ -42,7 +42,8 @@
     },
     "numParkingSpaces": null,
     "ParkingText": null,
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://invest.jll.com/us/en/listings/living-multi-housing/cedar-river-5"
   },
   "buildings": 2,
   "stories": null,
@@ -101,10 +102,10 @@
   "images": [
     {
       "fullUrl": [
-        "https://res.cloudinary.com/jll-global-cmg/image/upload/w_1920,q_auto/ar_2.3333333333333335,c_crop/w_1497,q_auto,c_scale/v1742948211/Prod/DealX/Img/3d527b7e-cd67-4f30-ae2d-4a100ae613dc.jpg",
-        "https://res.cloudinary.com/jll-global-cmg/image/upload/w_1920,q_auto/ar_2.3333333333333335,c_crop/w_1497,q_auto,c_scale/v1742948221/Prod/DealX/Img/8395733f-7d01-4f6d-b9dd-dd09a3ca0729.jpg",
-        "https://res.cloudinary.com/jll-global-cmg/image/upload/w_1920,q_auto/ar_2.3333333333333335,c_crop/w_1497,q_auto,c_scale/v1742948277/Prod/DealX/Img/bf68388a-a3da-42c4-add3-5d58dc00429b.jpg",
-        "https://res.cloudinary.com/jll-global-cmg/image/upload/w_1920,q_auto/ar_2.3333333333333335,c_crop/w_1497,q_auto,c_scale/v1742948293/Prod/DealX/Img/8761dc32-b662-4949-b16b-8b865971577f.jpg"
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1742948211/Prod/DealX/Img/3d527b7e-cd67-4f30-ae2d-4a100ae613dc.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1742948221/Prod/DealX/Img/8395733f-7d01-4f6d-b9dd-dd09a3ca0729.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1742948277/Prod/DealX/Img/bf68388a-a3da-42c4-add3-5d58dc00429b.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1742948293/Prod/DealX/Img/8761dc32-b662-4949-b16b-8b865971577f.jpg"
       ],
       "isFake": false
     }
