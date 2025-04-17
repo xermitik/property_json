@@ -1,0 +1,103 @@
+{
+  "name": "334 N State St Moran Township, MI 49781",
+  "description": "Located on North State Street/Busness Loop I-75 Corridor and across from the Arnold Freight Company & Moran Bay.\n\nCommercial Building located in the heart of Historic Downtown St. Ignace at 334 N State Street, the former site of the Fort de Buade Museum. Offering high visibility & foot traffic, large spacious area with 9500 SF on a large .07 acre city lot. The structure includes a newer metal roof, natural gas & electric heat and will be sold ''as is'' with some modifications required by the seller. The building will require updating and renovating to suit the next owner's vision, you name it or let your creative side go! The building footprint is large enough for many uses such as offices, retail storefront, or small mall complex with gift shops, food vendor and offers endless possibilities. Directly across Moran Bay & popular boardwalk in our beautiful waterfront community.",
+  "shortDescription": "9500 SF Building on a large .07 AC Lot For Sale",
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Office buildings"
+  ],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Michigan",
+        "code": null
+      },
+      "county": "Mackinac",
+      "city": "St Moran Township",
+      "zipcode": "49781",
+      "street": "334 N State",
+      "streetNumber": "334",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": 3049,
+    "lotSizeUnits": "SF",
+    "propertySize": 9500,
+    "propertySizeUnits": "SF",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 45.8687513,
+      "longitude": -84.727939
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": 1,
+  "stories": 1,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": "N/A",
+  "forSale": {
+    "price": 200000,
+    "saleCondition": null,
+    "buildingSize": 9500,
+    "buildingSizeUnits": "SF",
+    "netSize": 9500,
+    "netSizeUnits": "SF",
+    "lotSize": 3049,
+    "lotSizeUnits": "SF",
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": null,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": 21.05,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Barb Yshinski",
+      "firstName": "Barb",
+      "lastName": "Yshinski",
+      "description": null,
+      "company": null,
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(906) 630-3321"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "https://cbcimg.b-cdn.net/p1024x0/product/KLDC24/photo/EVzuEOGRV7/046AB82A-A0A7-4F88-9586-B0F2D4E1AEE4.jpeg",
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [],
+  "imagesSource": "https://www.cbcworldwide.com",
+  "brokerWebsite": "https://www.cbcworldwide.com/properties/KLDC24/334-n-state-st-st-ignace-mi-49781",
+  "brokerLogo": null,
+  "highlights": [],
+  "spaces": []
+}
