@@ -42,7 +42,8 @@
     },
     "numParkingSpaces": null,
     "ParkingText": null,
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://property.jll.com/listings/10000-richmond-ave-10000-richmond-ave-houston"
   },
   "buildings": null,
   "stories": null,
@@ -52,7 +53,7 @@
   "forSale": null,
   "forLease": {
     "rentableSquareFeet": null,
-    "rentableSquareFeetUnits": null,
+    "rentableSquareFeetUnits": "SF",
     "usableSquareFeet": null,
     "usableSquareFeetUnits": null,
     "rate": null,
@@ -65,8 +66,7 @@
     "leaseTerm": null,
     "taxesPerSquareFoot": null,
     "taxesPerAreaUnits": null,
-    "rateType": null,
-    "rentableSquareFeetText": "3,000 - 22,851"
+    "rateType": null
   },
   "contacts": [
     {
@@ -136,7 +136,9 @@
       "isFake": false
     }
   ],
-  "flyers": [],
+  "flyers": [
+    "/listings/10000-richmond-ave-10000-richmond-ave-houston/brochure"
+  ],
   "attachments": [],
   "imagesSource": "property.jll.com",
   "brokerWebsite": "https://property.jll.com/listings/10000-richmond-ave-10000-richmond-ave-houston",
