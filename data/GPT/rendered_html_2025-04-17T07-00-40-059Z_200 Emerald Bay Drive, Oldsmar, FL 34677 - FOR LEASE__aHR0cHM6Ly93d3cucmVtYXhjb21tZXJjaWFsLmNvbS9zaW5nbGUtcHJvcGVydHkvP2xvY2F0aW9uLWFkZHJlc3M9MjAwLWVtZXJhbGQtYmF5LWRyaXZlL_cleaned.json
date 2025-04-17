@@ -1,0 +1,123 @@
+{
+  "name": "200 Emerald Bay Drive, Oldsmar, Fl 34677",
+  "description": "Excellent office location just off Tampa Road in Oldsmar. $17.00 SF annual lease fee includes $3.00 CAM charges. Suite 100 (4,500 SF) and Suite 200 (1,000 SF) are both available. Owner will consider subdividing Suite 100 to increase the size of Suite 200, or each may be leased separately.",
+  "shortDescription": null,
+  "status": "for-lease",
+  "activityStatus": true,
+  "propertyTypes": [
+    "office"
+  ],
+  "dateAdded": 1710595610,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Florida",
+        "code": "FL"
+      },
+      "county": "Pinellas County",
+      "city": "Oldsmar",
+      "zipcode": "34677",
+      "street": "Emerald Bay Drive",
+      "streetNumber": "200",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": "Driving Directions: Driving East or West on Tampa Road (S.R. 580), turn South on Emerald Bay Drive to the property on the right.",
+    "zoneCode": "ROR (Office)",
+    "apu": null,
+    "apn": "15-28-16-00000-440-0130",
+    "yearBuilt": 1998,
+    "yearRenovated": null,
+    "lotSize": 0.82,
+    "lotSizeUnits": "Ac",
+    "propertySize": 7500,
+    "propertySizeUnits": "SF",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": "Block",
+    "coordinates": {
+      "latitude": 28.0440323,
+      "longitude": -82.682895
+    },
+    "numParkingSpaces": 2,
+    "ParkingText": "On Site",
+    "propertyUse": "Office"
+  },
+  "buildings": 1,
+  "stories": null,
+  "buildingClass": [
+    "B"
+  ],
+  "parkingSpaces": 2,
+  "elevators": "N/A",
+  "forSale": null,
+  "forLease": {
+    "rentableSquareFeet": 7500,
+    "rentableSquareFeetUnits": "SF",
+    "usableSquareFeet": null,
+    "usableSquareFeetUnits": null,
+    "rate": 14,
+    "rateAreaUnits": "sf/yr",
+    "totalRate": 17,
+    "leaseType": [
+      "NNN Lease"
+    ],
+    "leaseTerm": "NNN",
+    "taxesPerSquareFoot": 3,
+    "taxesPerAreaUnits": "SF",
+    "rateType": "Annual"
+  },
+  "contacts": [
+    {
+      "fullName": "Mark Ganier",
+      "firstName": "Mark",
+      "lastName": "Ganier",
+      "description": null,
+      "company": "RE/MAX Commercial",
+      "photo": "https://s3.amazonaws.com/realnex.production/Avatars/210967/MainPhoto_cropped.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(727) 403-5611"
+      ],
+      "email": "markganier@remax.net",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072432/16368972.jpg",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072432/16368974.JPG",
+        "https://realnex.com/s3/realnex.production/ListingAttachment/4072432/16368975.JPG",
+        "https://s3.amazonaws.com/realnex.production/ListingAttachment/4072432/16368706.png"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "https://s3.amazonaws.com/realnex.production/ListingAttachment/4072432/16368952.pdf"
+  ],
+  "attachments": [
+    "https://s3.amazonaws.com/realnex.production/ListingAttachment/4072432/16368952.pdf"
+  ],
+  "imagesSource": "realnex.com",
+  "brokerWebsite": "https://www.remaxcommercial.com/single-property/?location-address=200-emerald-bay-drive-oldsmar-fl-34677&type=for-lease&prop-id=4072432",
+  "brokerLogo": "https://www.remaxcommercial.com/wp-content/uploads/sites/4/2024/04/remax-logo.png",
+  "highlights": [
+    "Flexible office space from 1,000 to 5,500 SF (Suite 100 is 4,500 SF, and Suite 200 is 1,000 SF - Owner will consider subdividing the larger space to increase the size of the smaller space)."
+  ],
+  "spaces": [
+    {
+      "size": 4500,
+      "sizeUnits": "SF"
+    },
+    {
+      "size": 1000,
+      "sizeUnits": "SF"
+    }
+  ]
+}
