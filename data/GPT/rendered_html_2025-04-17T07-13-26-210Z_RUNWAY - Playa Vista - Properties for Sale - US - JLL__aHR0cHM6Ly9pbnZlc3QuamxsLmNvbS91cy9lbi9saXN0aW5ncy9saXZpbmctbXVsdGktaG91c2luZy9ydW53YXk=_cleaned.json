@@ -1,0 +1,165 @@
+{
+  "name": "RUNWAY",
+  "description": "Jones Lang LaSalle Americas, Inc., as exclusive advisor, is pleased to present for sale Runway (the “Property”), a trophy mixed-use investment opportunity located in the heart of the Playa Vista master planned community. Runway is comprised of 420 luxury residences amongst ±246k SF of marquee retail, dining and medical office space, anchored by the most visited Whole Foods in West LA, creating the ideal live-work-play environment.\n\nCompleted in 2014-2015 and situated just 1-mile from the magnificent Pacific Ocean, Runway is a transformative development to the vast master planned community of Playa Vista, creating a town-center and economic hub, a key catalyst in the community’s impressive ±348% population growth over the past two and a half decades. Designed as SoCal’s premiere lifestyle destination, Runway benefits from an ideal mix of nationally recognized tenants including Whole Foods, Cinemark, CVS Pharmacy and Starbucks, complemented by a curated offering of local and regional brands. Situated above the bustling ground-floor commercial is a ±33k SF state-of-the-art Cedars-Sinai medical office, resulting in a diverse and durable mix of income sources.\n\nRunway has become a top destination for Los Angeles’ most affluent technology and STEM households, evidenced by the Community’s impressive $451k average annual household income (13% RTI Ratio). Tenant employers include Meta, Google, Microsoft, SpaceX, and Apple, with greater Playa Vista home to 2.9M SF of premiere office space occupied by an array of Los Angeles’ top employers. The residential community is divided nearly evenly into northern and southern portions, with each half serviced by a dedicated resident lounge, large saltwater pool & spa, fitness center, and plethora of outdoor BBQ and dining nooks. As a result, Runway is in the 96th percentile in Southern CA in terms of market rent per SF for mid-rise product, with achieved rents up ±19% ($807/u) since 2021.\n\nRunway continues the legacy of innovation and excellence established by Howard Hughes, who’s famed aerospace empire once inhabited Playa Vista. Few opportunities ever arise to acquire a fee simple interest in an asset as pivotal and important to the success of a high performing coastal technology community.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "multifamily"
+  ],
+  "dateAdded": 1713734400,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "California",
+        "code": "CA"
+      },
+      "county": null,
+      "city": "Playa Vista",
+      "zipcode": "90094-2897",
+      "street": "Millennium",
+      "streetNumber": "12760",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": "Located in the heart of the Playa Vista master planned community, just 1-mile from the Pacific Ocean. The property is a town-center and economic hub with nationally recognized tenants including Whole Foods, Cinemark, CVS Pharmacy, Starbucks, and a Cedars-Sinai medical office. The community is a top destination for affluent technology and STEM households with major employers nearby such as Meta, Google, Microsoft, SpaceX, and Apple.",
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": 2015,
+    "yearRenovated": null,
+    "lotSize": 13.7,
+    "lotSizeUnits": "acres",
+    "propertySize": 246000,
+    "propertySizeUnits": "sq ft",
+    "propertySizeText": "±246k SF",
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 33.976641,
+      "longitude": -118.416979
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": "N/A",
+  "forSale": {
+    "price": null,
+    "saleCondition": null,
+    "buildingSize": 246000,
+    "buildingSizeUnits": "sq ft",
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": 13.7,
+    "lotSizeUnits": "acres",
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": 420,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": null,
+    "pricePerSqFtUnits": null,
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Blake Rogers",
+      "firstName": "Blake",
+      "lastName": "Rogers",
+      "description": "Senior Managing Director, Capital Markets",
+      "company": "JLL",
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    },
+    {
+      "fullName": "Kevin Sheehan",
+      "firstName": "Kevin",
+      "lastName": "Sheehan",
+      "description": "Managing Director, Capital Markets",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/w_1920,q_auto/w_108,q_auto/v1733677550/broker_profile_management_PROD/ydaic4yu2onxqx41phsp.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    },
+    {
+      "fullName": "Bryan Ley",
+      "firstName": "Bryan",
+      "lastName": "Ley",
+      "description": "Managing Director, Capital Markets",
+      "company": "JLL",
+      "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/w_1920,q_auto/w_108,q_auto/v1730335733/broker_profile_management_PROD/at0rhwl41up9kfrrkuoa.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1742334824/Prod/DealX/Img/84bd7378-f42d-4173-b3aa-8ec81f2a82bf.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1743726758/Prod/DealX/Img/4322a5a4-3088-4350-bff1-b899670a44ed.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741814431/Prod/DealX/Img/d5e21189-009f-4399-90ec-383d4bc79521.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741814260/Prod/DealX/Img/59ed31aa-2cbf-4b85-85f4-3dd28c45c995.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1744838173/Prod/DealX/Img/761cfea6-5a29-494a-924c-f3ed192b3503.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741814585/Prod/DealX/Img/53fff1c3-8e6a-43e6-ba8f-16a0d38d913b.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741814585/Prod/DealX/Img/c3da63f9-8313-4266-8c6b-68b26b5b1a9c.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741814585/Prod/DealX/Img/5827b6c3-7901-4403-bab5-b004499191c8.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741814585/Prod/DealX/Img/c52aae8e-d44f-4f68-9ec8-3fc2cfa33fa4.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741814585/Prod/DealX/Img/7b9b8634-7e15-4e3d-91bd-594892831aae.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741814585/Prod/DealX/Img/cf0d46af-347a-449e-bf69-d64fa7960b64.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741814605/Prod/DealX/Img/dc553618-76e3-4a22-bf5d-22325313d566.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741815005/Prod/DealX/Img/7a22594a-8ced-430e-b10f-1ea144487b68.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741815295/Prod/DealX/Img/f3107663-8493-4c79-aad7-1db24bf43984.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741815294/Prod/DealX/Img/05fde4bb-aaad-4446-b874-cb7c73163663.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741815294/Prod/DealX/Img/76809912-bf95-4399-a65d-ef30486fddc9.jpg",
+        "https://res.cloudinary.com/jll-global-cmg/image/upload/v1741815295/Prod/DealX/Img/8ad79dac-0d13-4da9-9676-58aed52270c8.jpg"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "https://res.cloudinary.com/jll-global-cmg/image/upload/v1744847267/Prod/DealX/Doc/0ffd8b28-37f8-4e9a-aa41-52b533c12bf1/JLL_Runway_Flyer.pdf"
+  ],
+  "attachments": [],
+  "imagesSource": "jll-global-cmg",
+  "brokerWebsite": "https://invest.jll.com/us/en/listings/living-multi-housing/runway",
+  "brokerLogo": "https://cdn-ukwest.onetrust.com/logos/8b38fb7a-e22c-4087-8432-aa293b8c2e1a/85ff6ee2-d134-48df-8a49-1f8c29013aa4/561d5988-401d-43d1-a0b1-066feb8fcce6/jll-logo-freelogovectors.net_.png",
+  "highlights": [
+    "Premier Mixed-Use West LA Property – with Top Performing Grocery/Drug Anchored Center",
+    "Includes West LA’s Most Visited Whole Foods",
+    "Mixed-Use Synergies Result in ±76% Residential Premium to LA MSA",
+    "Runway has Achieved ±19% Residential Rent Growth Since 2021",
+    "$451k Avg. Tenant HH Income Resulting in 13% RTI Ratio at Runway",
+    "Located at the Epicenter of Playa Vista, a 500-Acre Master Planned Community in West LA",
+    "Proximate to Prestigious Tech Employers Such as Meta, Google, Apple, & Microsoft "
+  ],
+  "spaces": [
+    {
+      "size": 246000,
+      "sizeUnits": "sq ft"
+    }
+  ]
+}
