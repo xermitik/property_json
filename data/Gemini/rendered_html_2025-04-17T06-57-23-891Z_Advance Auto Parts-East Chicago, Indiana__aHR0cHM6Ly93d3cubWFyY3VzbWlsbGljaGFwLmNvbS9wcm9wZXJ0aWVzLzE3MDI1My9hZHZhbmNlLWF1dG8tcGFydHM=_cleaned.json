@@ -42,7 +42,8 @@
     },
     "numParkingSpaces": null,
     "ParkingText": null,
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://www.marcusmillichap.com/properties/170253/advance-auto-parts"
   },
   "buildings": null,
   "stories": null,
@@ -120,6 +121,23 @@
       "website": null,
       "linkedin": null,
       "licenseNumber": "IL: 475.164486"
+    },
+    {
+      "fullName": "Josh Caruana",
+      "firstName": "Josh",
+      "lastName": "Caruana",
+      "description": "First Vice President/District Manager",
+      "company": null,
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(317) 218-5300"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "IN: RB14034355"
     }
   ],
   "images": [
@@ -145,9 +163,7 @@
     }
   ],
   "flyers": [],
-  "attachments": [
-    "https://www.marcusmillichap.com/properties/170253/deal-room/6d0d7e773413cbdc"
-  ],
+  "attachments": [],
   "imagesSource": "mmimageservice.azurewebsites.net",
   "brokerWebsite": "https://www.marcusmillichap.com/properties/170253/advance-auto-parts",
   "brokerLogo": null,
