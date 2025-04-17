@@ -1,0 +1,61 @@
+{
+  "name": "2180-2220 Lincoln Ave",
+  "description": null,
+  "shortDescription": null,
+  "status": null,
+  "activityStatus": true,
+  "propertyTypes": [],
+  "dateAdded": null,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "California",
+        "code": "CA"
+      },
+      "county": null,
+      "city": "Altadena",
+      "zipcode": "91001",
+      "street": "2180-2220 Lincoln Ave",
+      "streetNumber": null,
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": null,
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": null,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": null,
+    "propertySizeUnits": null,
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": null,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": null,
+  "forLease": null,
+  "contacts": [],
+  "images": [],
+  "flyers": [],
+  "attachments": [],
+  "imagesSource": "www.lee-associates.com",
+  "brokerWebsite": "https://www.lee-associates.com/properties/?propertyId=2180-2220-Lincoln-Ave-Altadena-CA-91001&address=2180-2220-Lincoln-Ave&officeId=3380",
+  "brokerLogo": null,
+  "highlights": [],
+  "spaces": []
+}
