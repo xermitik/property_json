@@ -1,7 +1,7 @@
 {
   "name": "Cedar River 5",
   "description": "JLL, as an exclusive advisor, is pleased to present the outstanding opportunity to acquire the Cedar River 5 Apartments (“the Property”), an apartment property located in Renton, Washington.\n\n\nBuilt in 1910 and 1962, this two-building property consists of 1 two-bedroom house and 4 one-bedroom apartment units. Ownership has kept both unit interiors and building exteriors well-maintained, including new electrical panels in 2025 and updated roofs in 2020, making this an attractive asset in a desirable submarket proximate to Seattle’s core demand-drivers.\n\n\nLocated along the scenic Cedar River, residents at the Property benefit from suburban living with easy access to the major employment hubs of downtown Seattle, the Eastside, and the Kent Industrial Corridor. Situated in central Renton, residents are also proximate to a variety of retail and entertainment amenities. Just a 6-minute walk from downtown Renton and a 4 minute drive from The Landing shopping mall, residents can easily access over 3.5 million SF of retail within a 1.5-mile radius. The Property’s immediate location also puts it within walking distance of neighborhood recreational amenities including Cedar River Park, Jones Park, Liberty Park, and Renton Memorial Stadium.\n\nRenton High School and Sartori Elementary School are also easily walkable from the Property. The Cedar River 5 Apartments represent an excellent opportunity for investors seeking both reliable cash flow and the potential for continued rent growth at a well-located and maintained property.",
-  "shortDescription": "JLL, as an exclusive advisor, is pleased to present the outstanding opportunity to acquire the Cedar River 5 Apartments (“the Property”), an apartment property located in Renton, Washington.",
+  "shortDescription": "JLL, as an exclusive advisor, is pleased to present the outstanding opportunity to acquire the Cedar River 5 Apartments (“the Property”), an apartment property located in Renton, Washington.Built in 1910 and 1962, this two-building property consists of 1 two-bedroom house and 4 one-bedroom apartment",
   "status": "for-sale",
   "activityStatus": true,
   "propertyTypes": [
@@ -42,7 +42,8 @@
     },
     "numParkingSpaces": null,
     "ParkingText": null,
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://invest.jll.com/us/en/listings/living-multi-housing/cedar-river-5"
   },
   "buildings": 2,
   "stories": null,
@@ -56,8 +57,8 @@
     "buildingSizeUnits": null,
     "netSize": null,
     "netSizeUnits": null,
-    "lotSize": null,
-    "lotSizeUnits": null,
+    "lotSize": 0.28,
+    "lotSizeUnits": "acres",
     "airRightsSize": null,
     "airRightsSizeUnits": null,
     "units": 5,
