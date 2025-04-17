@@ -1,0 +1,127 @@
+{
+  "name": "3191 East Warm Springs Road, Suite 105, Floor 1",
+  "description": "Law Office with high end finishes. All professional services are welcome. Join the Nevada Bureau of Oriental Medicine and ALS Association and Sage Advisors. Call for more information Lance Hamrick 702-279-9666",
+  "shortDescription": "Law Office with high end finishes. All professional services are welcome. Join the Nevada Bureau of Oriental Medicine and ALS Association and Sage Advisors. Call for more information Lance Hamrick 702-279-9666",
+  "status": "for-lease",
+  "activityStatus": true,
+  "propertyTypes": [
+    "Office"
+  ],
+  "dateAdded": 1634544000,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "NV",
+        "code": "NV"
+      },
+      "county": null,
+      "city": "Las Vegas",
+      "zipcode": "89120",
+      "street": "3191 East Warm Springs Road, Suite 105, Floor 1",
+      "streetNumber": "3191",
+      "unit": "Suite 105, Floor 1",
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": null,
+    "zoneCode": "C-P",
+    "apu": null,
+    "apn": null,
+    "yearBuilt": 2003,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": 1200,
+    "propertySizeUnits": "sqft",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 36.056688,
+      "longitude": -115.105192
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": 1,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": null,
+  "forSale": null,
+  "forLease": {
+    "rentableSquareFeet": null,
+    "rentableSquareFeetUnits": null,
+    "usableSquareFeet": null,
+    "usableSquareFeetUnits": null,
+    "rate": 1620,
+    "rateAreaUnits": "sqft",
+    "totalRate": null,
+    "leaseType": null,
+    "leaseTerm": null,
+    "taxesPerSquareFoot": null,
+    "taxesPerAreaUnits": null,
+    "rateType": "Monthly"
+  },
+  "contacts": [
+    {
+      "fullName": "Lance Hamrick",
+      "firstName": "Lance",
+      "lastName": "Hamrick",
+      "description": null,
+      "company": "Coldwell Banker Commercial Premier",
+      "photo": "https://cbcimg.b-cdn.net/p256x256/user/75Ra6RvI/photo/LWxEQWJ/profile-photo.jpg",
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "702-701-9700"
+      ],
+      "email": "lance.hamrick@cbcvegas.com",
+      "website": "http://cbcvegas.com/",
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": "https://cbcimg.b-cdn.net/p1920x0/product/ERHXLV/photo/DRGBbnW/2938B406-FEDC-4C3D-91F9-1E5A47CAD52D.jpeg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://cbcimg.b-cdn.net/p1920x0/product/ERHXLV/photo/TyUYs1nlVA/D07B1D43-CACC-4C79-BA53-2E3410653339.jpeg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://cbcimg.b-cdn.net/p1920x0/product/ERHXLV/photo/Cw1LZbjv/C83B60B5-4D56-4249-99A1-B08010A33EA4.jpeg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://cbcimg.b-cdn.net/p1920x0/product/ERHXLV/photo/HAeFMD0w/A7C3DEEC-8DA8-461F-99A2-B9938854FEF0.jpeg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://cbcimg.b-cdn.net/p1920x0/product/ERHXLV/photo/zM40Jq5j/F204DF29-0FF5-496A-8B37-AA51E2AE6A12.jpeg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://cbcimg.b-cdn.net/p1920x0/product/ERHXLV/photo/K7Uj2ggsDE/D43F12A1-FBA2-48A1-8A4E-3F8C64E95A70.jpeg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://cbcimg.b-cdn.net/p1920x0/product/ERHXLV/photo/fhinKNuKvY/A3B733C6-D79C-4629-AF4B-FC2B9C26408A.jpeg",
+      "isFake": false
+    },
+    {
+      "fullUrl": "https://cbcimg.b-cdn.net/p1920x0/product/ERHXLV/photo/SAt8lb6i/E6F2405C-EEF7-4B70-8805-217D02D631C2.jpeg",
+      "isFake": false
+    }
+  ],
+  "flyers": [],
+  "attachments": [],
+  "imagesSource": "cbcworldwide.com",
+  "brokerWebsite": "https://www.cbcworldwide.com/properties/ERHXLV/3191-east-warm-springs-road-suite-105-floor-1",
+  "brokerLogo": "https://cbcimg.b-cdn.net/cbc_logo_round.png",
+  "highlights": [],
+  "spaces": []
+}
