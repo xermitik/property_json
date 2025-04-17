@@ -1,0 +1,177 @@
+{
+  "name": "Comfort Inn & Suites Seattle North",
+  "description": "Marcus & Millichap has been chosen to exclusively market for sale the Comfort Inn & Suites North Seattle, a four-story hotel located in northwest Seattle. The property consists of 72 interior corridor guest rooms, a business center, fitness center, complimentary breakfast, and guest laundry facilities. Each guest room features a TV, work desk, microwave, and coffee maker. Select suites include a full kitchen/dining space and/or a sofa bed. The Comfort Inn & Suites North Seattle is ideally situated along State Highway 99, less than a mile from Interstate 5 and seven miles from Downtown Seattle. The hotel is within 10 miles of many popular attractions including Woodland Park Zoo, the Space Needle, Seattle Aquarium, Pike Place Market, and Pier 55. It is also a short drive to the metro's major professional sporting venues, including Climate Pledge Arena, Lumen Field, and T-Mobile Park. Other nearby demand generators include UW Medical Center, Seattle Children's Hospital, the University of Washington, and the Seattle Convention Center. The Comfort Inn & Suites North Seattle represents the opportunity to acquire a franchised hotel in a stable market near several demand drivers. Our Pro Forma analysis assumes continued modest growth supported by the increasing population and demand growth in the Seattle region.",
+  "shortDescription": null,
+  "status": "for-sale",
+  "activityStatus": true,
+  "propertyTypes": [
+    "hotel-motel"
+  ],
+  "dateAdded": 638804698115717134,
+  "propertyInfo": {
+    "address": {
+      "state": {
+        "name": "Washington",
+        "code": "WA"
+      },
+      "county": null,
+      "city": "Seattle",
+      "zipcode": "98133",
+      "street": "Aurora Ave N",
+      "streetNumber": "13700",
+      "unit": null,
+      "cbsaCode": null,
+      "cbsaName": null
+    },
+    "areaDescription": "Located in northwest Seattle along State Highway 99, less than a mile from Interstate 5 and seven miles from Downtown Seattle. Within 10 miles of Woodland Park Zoo, the Space Needle, Seattle Aquarium, Pike Place Market, and Pier 55. Close to major sporting venues including Climate Pledge Arena, Lumen Field, and T-Mobile Park. Nearby demand generators include UW Medical Center, Seattle Children's Hospital, the University of Washington, and the Seattle Convention Center.",
+    "zoneCode": null,
+    "apu": null,
+    "apn": null,
+    "yearBuilt": 1990,
+    "yearRenovated": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "propertySize": 50288,
+    "propertySizeUnits": "sq ft",
+    "propertySizeText": null,
+    "layoutText": null,
+    "construction": null,
+    "coordinates": {
+      "latitude": 47.7289596,
+      "longitude": -122.3439842
+    },
+    "numParkingSpaces": null,
+    "ParkingText": null,
+    "propertyUse": null
+  },
+  "buildings": null,
+  "stories": 4,
+  "buildingClass": null,
+  "parkingSpaces": null,
+  "elevators": "N/A",
+  "forSale": {
+    "price": 10000000,
+    "saleCondition": null,
+    "buildingSize": 50288,
+    "buildingSizeUnits": "sq ft",
+    "netSize": null,
+    "netSizeUnits": null,
+    "lotSize": null,
+    "lotSizeUnits": null,
+    "airRightsSize": null,
+    "airRightsSizeUnits": null,
+    "units": 72,
+    "investmentType": null,
+    "investmentSubtype": null,
+    "occupancy": null,
+    "pricePerSqFt": 198.85,
+    "pricePerSqFtUnits": "sq ft",
+    "netOperatingIncome": null
+  },
+  "forLease": null,
+  "contacts": [
+    {
+      "fullName": "Clayton M. Hill",
+      "firstName": "Clayton",
+      "lastName": "Hill",
+      "description": "Senior Associate",
+      "company": "Marcus & Millichap",
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(206) 826-5811"
+      ],
+      "email": "clayton.hill@marcusmillichap.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "WA: 20115936"
+    },
+    {
+      "fullName": "Gordon Allred",
+      "firstName": "Gordon",
+      "lastName": "Allred",
+      "description": "Senior Managing Director Investments",
+      "company": "Marcus & Millichap",
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(909) 456-3420"
+      ],
+      "email": "gordon.allred@marcusmillichap.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "CA: 00927200, NV: BS.0146254, ID: AB56024"
+    },
+    {
+      "fullName": "Joel Deis",
+      "firstName": "Joel",
+      "lastName": "Deis",
+      "description": "First Vice President/Regional Manager",
+      "company": "Marcus & Millichap",
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(206) 826-5700"
+      ],
+      "email": null,
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": "WA: 25469"
+    },
+    {
+      "fullName": "Tyler Waller",
+      "firstName": "Tyler",
+      "lastName": "Waller",
+      "description": "Senior Director, Capital Markets",
+      "company": "Marcus & Millichap",
+      "photo": null,
+      "address": null,
+      "officeAddress": null,
+      "phones": [
+        "(602) 687-6695"
+      ],
+      "email": "tyler.waller@marcusmillichap.com",
+      "website": null,
+      "linkedin": null,
+      "licenseNumber": null
+    }
+  ],
+  "images": [
+    {
+      "fullUrl": [
+        "https://mmimageservice.azurewebsites.net/api/image/property/e902ebf9-d05a-4d1d-a1d6-1fdaf804548b/L",
+        "https://mmimageservice.azurewebsites.net/api/image/property/42135c87-1c1f-4553-89cf-4ba252fb0b43/L",
+        "https://mmimageservice.azurewebsites.net/api/image/property/0072e271-ce2e-4b49-a8d1-e7fb67c4323d/L",
+        "https://mmimageservice.azurewebsites.net/api/image/property/6721ff92-6fd0-4912-80a6-9003c5cd82e5/L",
+        "https://mmimageservice.azurewebsites.net/api/image/property/c9c2df99-ad0c-4644-a03d-336947c3d7b2/L"
+      ],
+      "isFake": false
+    }
+  ],
+  "flyers": [
+    "https://www.marcusmillichap.com/properties/172454/deal-room/b137b662846976d8"
+  ],
+  "attachments": [],
+  "imagesSource": "mmimageservice.azurewebsites.net",
+  "brokerWebsite": "https://www.marcusmillichap.com/properties/172454/comfort-inn-suites-seattle-north",
+  "brokerLogo": "https://www.marcusmillichap.com/Areas/MM/img/MM_logo2018_white.svg",
+  "highlights": [
+    "$250k of CapEx in Progress",
+    "Ideally Located Along State Highway 99 in Northwest Seattle, a Region with Excellent Demographics",
+    "10 Miles to Downtown Seattle and some of the Market's Major Employers",
+    "Minutes to World-Renowned Attractions Including the Space Needle, Seattle Aquarium, and Pike Place Market (~8.5M Combined Visitors Per Year)",
+    "7 Miles to the University of Washington (50k+ Enrollment)",
+    "7 Miles to Seattle Children's Hospital (451k+ Patient Visits in 2024)",
+    "Within 8 Miles of the Metro's Major Sporting Venues, Including Climate Pledge Arena, Lumen Field, and T-Mobile Park",
+    "9 Miles to Seattle Convention Center (335 Events Per Year / 360k+ Attendees in 2023)"
+  ],
+  "spaces": [
+    {
+      "size": 50288,
+      "sizeUnits": "sq ft"
+    }
+  ]
+}
