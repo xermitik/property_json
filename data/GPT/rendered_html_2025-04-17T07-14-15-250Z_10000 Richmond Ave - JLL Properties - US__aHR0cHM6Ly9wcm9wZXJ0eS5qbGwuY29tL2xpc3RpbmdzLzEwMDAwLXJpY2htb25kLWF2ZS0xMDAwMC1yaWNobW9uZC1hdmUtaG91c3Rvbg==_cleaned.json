@@ -42,7 +42,8 @@
     },
     "numParkingSpaces": null,
     "ParkingText": null,
-    "propertyUse": null
+    "propertyUse": null,
+    "brokerWebsite": "https://property.jll.com/listings/10000-richmond-ave-10000-richmond-ave-houston"
   },
   "buildings": null,
   "stories": null,
@@ -75,7 +76,7 @@
       "company": "JLL",
       "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733684994/broker_profile_management_PROD/mi8bmtthcauucqiowt8x.jpg",
       "address": null,
-      "officeAddress": "2020 K Street NW Suite 1100, Washington, DC 20006",
+      "officeAddress": "2020 K Street NW Suite 1100, Washington, 20006",
       "phones": [
         "+1-713-376-5250"
       ],
@@ -92,7 +93,7 @@
       "company": "JLL",
       "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733678554/broker_profile_management_PROD/olo6koud57eysroydpsi.jpg",
       "address": null,
-      "officeAddress": "2020 K Street NW Suite 1100, Washington, DC 20006",
+      "officeAddress": "2020 K Street NW Suite 1100, Washington, 20006",
       "phones": [
         "+1-713-823-3637"
       ],
@@ -109,7 +110,7 @@
       "company": "JLL",
       "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1733677133/broker_profile_management_PROD/hun6wywb0b41q6wbzbwa.jpg",
       "address": null,
-      "officeAddress": "2020 K Street NW Suite 1100, Washington, DC 20006",
+      "officeAddress": "2020 K Street NW Suite 1100, Washington, 20006",
       "phones": [
         "+1 832 703 9930"
       ],
@@ -126,7 +127,7 @@
       "company": "JLL",
       "photo": "https://res.cloudinary.com/jll-global-broker-profile/image/upload/v1738185543/broker_profile_management_PROD/lotslrbyvrvdaovyda55.jpg",
       "address": null,
-      "officeAddress": "2020 K Street NW Suite 1100, Washington, DC 20006",
+      "officeAddress": "2020 K Street NW Suite 1100, Washington, 20006",
       "phones": [
         "+1 713 888 4042"
       ],
