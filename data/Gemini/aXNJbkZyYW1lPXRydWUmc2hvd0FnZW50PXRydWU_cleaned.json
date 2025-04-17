@@ -13,8 +13,8 @@
   "propertyInfo": {
     "address": {
       "state": {
-        "name": "TX",
-        "code": null
+        "name": "Texas",
+        "code": "TX"
       },
       "county": "Hays County",
       "city": "Dripping Springs",
@@ -33,8 +33,8 @@
     "yearRenovated": null,
     "lotSize": 120661,
     "lotSizeUnits": "sq ft",
-    "propertySize": null,
-    "propertySizeUnits": null,
+    "propertySize": 2.77,
+    "propertySizeUnits": "Acres",
     "propertySizeText": null,
     "layoutText": null,
     "construction": null,
@@ -91,49 +91,49 @@
   "images": [
     {
       "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267174.jpg?autorotate=true",
-      "isFake": false
+      "isFake": null
     },
     {
       "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267163.jpg?autorotate=true",
-      "isFake": false
+      "isFake": null
     },
     {
       "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267157.jpg?autorotate=true",
-      "isFake": false
+      "isFake": null
     },
     {
       "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267159.jpg?autorotate=true",
-      "isFake": false
+      "isFake": null
     },
     {
       "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267160.jpg?autorotate=true",
-      "isFake": false
+      "isFake": null
     },
     {
       "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267161.jpg?autorotate=true",
-      "isFake": false
+      "isFake": null
     },
     {
       "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267164.jpg?autorotate=true",
-      "isFake": false
+      "isFake": null
     },
     {
       "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267158.jpg?autorotate=true",
-      "isFake": false
+      "isFake": null
     },
     {
       "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267162.jpg?autorotate=true",
-      "isFake": false
+      "isFake": null
     },
     {
       "fullUrl": "https://realnex.com/s3/realnex.production/ListingAttachment/4069001/16267165.jpg?autorotate=true",
-      "isFake": false
+      "isFake": null
     }
   ],
-  "flyers": [
+  "flyers": [],
+  "attachments": [
     "https://s3.amazonaws.com/realnex.production/ListingAttachment/4069001/16267175.pdf"
   ],
-  "attachments": [],
   "imagesSource": "realnex.com",
   "brokerWebsite": "https://realnex.com/listings/4069001/us-290-and-sawyer-ranch-road-lot-1ac",
   "brokerLogo": null,
